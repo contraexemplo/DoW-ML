@@ -8,9 +8,7 @@ Este documento nada mais é do que uma lista de aspectos da documentação do Ta
   + *Padronização de nomes de arquivo:* Outro aspecto a ser considerado para aprimoramento da gestão de arquivos.
 
 2. Imagens de baixa qualidade.
-  + *Legibilidade:* Dada a importância de tal recurso 
-
-visual para a orientação do usuário final, é importante que capturas de tela sejam disponibilizadas em alta qualidade.
+  + *Legibilidade:* Dada a importância de tal recurso visual para a orientação do usuário final, é importante que capturas de tela sejam disponibilizadas em alta qualidade.
   + *Formato:* Notei que as imagens disponibilizadas estão no formato .png. Acredito que não seja necessário, visto que é possível utilizar imagens no formato .jpg sem perda de qualidade, mas diminuindo o uso de armazenamento nos servidores.
 
 3. Indicações de elementos citados ou em foco.
