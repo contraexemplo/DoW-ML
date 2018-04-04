@@ -70,7 +70,7 @@ Dentre os problemas latentes detectados, estão:
   + *Como contribuir:* Como um projeto de software livre, é importante que o Tainacan seja convidativo a contribuidores externos. Uma página com orientações a respeito de contribuições é extremamente importante (exemplo: [[http://opencomparison.readthedocs.io/en/latest/contributing.html][Open Comparion]]).
 
 * Referências pessoais
-1.[[http://www.writethedocs.org/guide/about/alternatives/#interesting-approaches][Estratégias interessantes em documentação]], no Write the Docs.
+1. [[http://www.writethedocs.org/guide/about/alternatives/#interesting-approaches][Estratégias interessantes em documentação]], no Write the Docs.
 2. [[https://jacobian.org/writing/what-to-write/][What to Write]], [[https://jacobian.org/writing/technical-style/][Technical Style]], por Jacob Kaplan-Moss.
 3. Read Me First!: A Style Guide for the Computer Industry.
 
