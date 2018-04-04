@@ -51,7 +51,7 @@ Dentre os problemas latentes detectados, estão:
   + Apesar de uma linguagem mais informal ser encorajada para não intimidar o usuário novato, o uso desse tipo de vocabulário deve ser evitado para não confundí-lo.
 
 
-4. Us extensivo de termos em inglês 
+4. Uso extensivo de termos em inglês 
   + O uso de termos equivalentes em inglês provavelmente intimidaria menos quem tem um menor grau técnico.
   + Ainda que se tratasse de um público com um grau técnico consistente, questiono a necessidade de usar somente termos anglófonos em determinadas situações ao invés de oferecer informações e telas de usuário totalmente traduzidas.
   + É possível argumentar que grande parte das pessoas possuem familiaridade com certos termos, e que traduzí-los seja um esforço em vão. Por isso, o interessante seria introduzir convenções nestes casos.
@@ -61,3 +61,21 @@ Dentre os problemas latentes detectados, estão:
   + O uso de espaos nominais para categorizar documentação é um artíficio útil para direcionar públicos distintos às páginas adequadas.
   + Tal qual como o MediaWiki.org, "Help:" poderia designar guias de usuário e "Manual:", artigos específicos para desenvolvedores, mantenedores, administradores.
   + É de imensa importância que não se misture textos técnicos para públicos-alvo distintos. A página principal precisa, com sucesso, direcionar cada um para a seção adequada.
+
+* Aspectos sociais
+1. Informações de contato
+  + *Suporte:* Listar vários meios de contato é de imensa importância. É possível que não consigamos prever todo caso de uso e experiência de usuário possível, e alguém precise de ajuda. A existência de canais de suporte provê ao usuário formas de auxílio.
+  + *Comunidade:* O item anterior inclui também a construção de pontes entre outros usuários do software, além da própria plataforma. [[https://docs.djangoproject.com/en/1.8/faq/help/][Django]] faz isso bem (além de incluir um FAQ relacionado).
+  + *Perguntas frequentes:* Às vezes usuários têm dúvidas que não podem ser incluídas em seção alguma da documentação. A criação de uma seção de /Perguntas frequentes/ é uma boa maneira de reunir tais questionamentos.
+  + *Como contribuir:* Como um projeto de software livre, é importante que o Tainacan seja convidativo a contribuidores externos. Uma página com orientações a respeito de contribuições é extremamente importante (exemplo: [[http://opencomparison.readthedocs.io/en/latest/contributing.html][Open Comparion]]).
+
+* Referências pessoais
+1.[[http://www.writethedocs.org/guide/about/alternatives/#interesting-approaches][Estratégias interessantes em documentação]], no Write the Docs.
+2. [[https://jacobian.org/writing/what-to-write/][What to Write]], [[https://jacobian.org/writing/technical-style/][Technical Style]], por Jacob Kaplan-Moss.
+3. Read Me First!: A Style Guide for the Computer Industry.
+
+* Documentações que admiro
+1. [[https://wiki.archlinux.org/][Arch Linux]]
+2. [[https://www.latex-project.org/help/documentation/][LaTeX]]
+3. [[https://docs.ghost.org/docs][Ghost]]
+4. [[https://guides.github.com/][GitHub]]
