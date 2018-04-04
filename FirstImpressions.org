@@ -54,7 +54,11 @@ Dentre os problemas latentes detectados, estão:
 4. Uso extensivo de termos em inglês 
   + O uso de termos equivalentes em inglês provavelmente intimidaria menos quem tem um menor grau técnico.
   + Ainda que se tratasse de um público com um grau técnico consistente, questiono a necessidade de usar somente termos anglófonos em determinadas situações ao invés de oferecer informações e telas de usuário totalmente traduzidas.
-  + É possível argumentar que grande parte das pessoas possuem familiaridade com certos termos, e que traduzí-los seja um esforço em vão. Por isso, o interessante seria introduzir convenções nestes casos.
+  + É possível argumentar que grande parte das pessoas possuem familiaridade com certos termos, e que traduzí-los seja um esforço em vão. Por isso, o interessante seria 
+introduzir convenções nestes casos.
+
+4. Expressões reservadas
+   + *Interfaces independentes:* É importante haver uma distinção entre as telas e controles do WordPress e as do Tainacan. Por isso, a elaboração de uma lista de expressões reservadas (como "Painel de controle") ajudará tanto usuários quanto desenvolvedores.
 
 * Aspectos organizacionais
 1. Espaços nominais
@@ -66,7 +70,7 @@ Dentre os problemas latentes detectados, estão:
 1. Informações de contato
   + *Suporte:* Listar vários meios de contato é de imensa importância. É possível que não consigamos prever todo caso de uso e experiência de usuário possível, e alguém precise de ajuda. A existência de canais de suporte provê ao usuário formas de auxílio.
   + *Comunidade:* O item anterior inclui também a construção de pontes entre outros usuários do software, além da própria plataforma. [[https://docs.djangoproject.com/en/1.8/faq/help/][Django]] faz isso bem (além de incluir um FAQ relacionado).
-  + *Perguntas frequentes:* Às vezes usuários têm dúvidas que não podem ser incluídas em seção alguma da documentação. A criação de uma seção de /Perguntas frequentes/ é uma boa maneira de reunir tais questionamentos.
+2. Perguntas frequentes: Às vezes usuários têm dúvidas que não podem ser incluídas em seção alguma da documentação. A criação de uma seção de /Perguntas frequentes/ é uma boa maneira de reunir tais questionamentos.
   + *Como contribuir:* Como um projeto de software livre, é importante que o Tainacan seja convidativo a contribuidores externos. Uma página com orientações a respeito de contribuições é extremamente importante (exemplo: [[http://opencomparison.readthedocs.io/en/latest/contributing.html][Open Comparion]]).
 
 * Referências pessoais
