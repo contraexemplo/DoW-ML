@@ -3,15 +3,15 @@ Este documento nada mais é do que uma lista de aspectos da documentação do Ta
 * Aspectos visuais
 
 1. Imagens sem texto associado (ou texto alternativo)  detalhado. 
-  + **Acessibilidade:** Quando um usuário com deficiência visual usa leitores de tela, o software utiliza o atributo "texto associado" como descrição daquele elemento visual.
-  + **SEO:** Mecanismos de busca também utilizam tal atributo para exibir resultados específicos.
-  + **Padronização de nomes de arquivo:** Outro aspecto a ser considerado para aprimoramento da gestão de arquivos.
+  + *Acessibilidade:* Quando um usuário com deficiência visual usa leitores de tela, o software utiliza o atributo "texto associado" como descrição daquele elemento visual.
+  + *SEO:* Mecanismos de busca também utilizam tal atributo para exibir resultados específicos.
+  + *Padronização de nomes de arquivo:* Outro aspecto a ser considerado para aprimoramento da gestão de arquivos.
 
 2. Imagens de baixa qualidade.
-  + **Legibilidade:** Dada a importância de tal recurso 
+  + *Legibilidade:* Dada a importância de tal recurso 
 
 visual para a orientação do usuário final, é importante que capturas de tela sejam disponibilizadas em alta qualidade.
-  + **Formato:** Notei que as imagens disponibilizadas estão no formato .png. Acredito que não seja necessário, visto que é possível utilizar imagens no formato .jpg sem perda de qualidade, mas diminuindo o uso de armazenamento nos servidores.
+  + *Formato:* Notei que as imagens disponibilizadas estão no formato .png. Acredito que não seja necessário, visto que é possível utilizar imagens no formato .jpg sem perda de qualidade, mas diminuindo o uso de armazenamento nos servidores.
 
 3. Indicações de elementos citados ou em foco.
   + Em vários momentos, a documentação procura fazer com que o leitor foque o seu olhar em elementos específicos de determinadas telas. Aqui, o problema é a falta de um padrão: em um momento, isso é feito através de números azuis, sem sombra; em outro, com setas vermelhas; em outro, com números vermelhos com sombras.
