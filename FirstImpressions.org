@@ -1,0 +1,65 @@
+Este documento nada mais é do que uma lista de aspectos da documentação do Tainacan cujo aprimoramento precisa ser considerado. Tenha em mente de que ele é um reflexo de minhas experiências ao explorar a atual wiki do Tainacan e vivências passadas no mundo do software livre — portanto, está aberto a diferentes perspectivas e sugestões.
+
+* Aspectos visuais
+
+1. Imagens sem texto associado (ou texto alternativo)  detalhado. 
+  + **Acessibilidade:** Quando um usuário com deficiência visual usa leitores de tela, o software utiliza o atributo "texto associado" como descrição daquele elemento visual.
+  + **SEO:** Mecanismos de busca também utilizam tal atributo para exibir resultados específicos.
+  + **Padronização de nomes de arquivo:** Outro aspecto a ser considerado para aprimoramento da gestão de arquivos.
+
+2. Imagens de baixa qualidade.
+  + **Legibilidade:** Dada a importância de tal recurso 
+
+visual para a orientação do usuário final, é importante que capturas de tela sejam disponibilizadas em alta qualidade.
+  + **Formato:** Notei que as imagens disponibilizadas estão no formato .png. Acredito que não seja necessário, visto que é possível utilizar imagens no formato .jpg sem perda de qualidade, mas diminuindo o uso de armazenamento nos servidores.
+
+3. Indicações de elementos citados ou em foco.
+  + Em vários momentos, a documentação procura fazer com que o leitor foque o seu olhar em elementos específicos de determinadas telas. Aqui, o problema é a falta de um padrão: em um momento, isso é feito através de números azuis, sem sombra; em outro, com setas vermelhas; em outro, com números vermelhos com sombras.
+  + Uma solução mais elegante seria capturas de tela de alta qualidade dos elementos citados, como acontece em documentações como o da extensão [[https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide][VisualEditor]] do MediaWiki.
+
+4. Ausência de imagens em pontos críticos da documentação.
+  + Provavelmente uma consequência da migração da documentação para a wiki.
+  + Exemplos: "Minha Coleção" (a partir da imagem 137), "Gestão do Repositório" (diversos trechos).
+
+* Aspectos textuais
+
+Acredito que todos os pontos levantados podem ser aprimorados através da introdução de um guia de estilo para a documentação. Tal ação tem, como benefícios:
+
+- O estabelecimento de uma identidade textual para o projeto.
+- A padronização da linguagem da documentação.
+- A entrada facilitada a novos membros do projeto.
+- A criação de documentação-legado.
+
+Um guia de estilo não é:
+
+- Um artifício para podar escritores técnicos.
+- Uma rejeição a ideias criativas.
+- Uma obrigação inflexível.
+
+Um guia de estilo é:
+- Uma ferramenta para facilitar o trabalho dos escritores técnicos.
+- Um recurso para tornar a escrita de documentação um processo mais fácil.
+
+Dentre os problemas latentes detectados, estão:
+
+1. Ausência de uma linguagem uniforme por toda a extensão da documentação.
+  + Diretrizes a respeito da linguagem mais adequada ajudam o texto a se tornar mais coeso.
+
+2. Sentenças muito longas, exaustivas de se ler.
+  + Sentenças curtas fazem melhor proveito da atenção do leitor. Além disso, tornam mais fáceis pausas durante a leitura.
+
+3. Estrangeirismos
+  + Um exemplo persistente é "setar".
+  + Apesar de uma linguagem mais informal ser encorajada para não intimidar o usuário novato, o uso desse tipo de vocabulário deve ser evitado para não confundí-lo.
+
+
+4. Us extensivo de termos em inglês 
+  + O uso de termos equivalentes em inglês provavelmente intimidaria menos quem tem um menor grau técnico.
+  + Ainda que se tratasse de um público com um grau técnico consistente, questiono a necessidade de usar somente termos anglófonos em determinadas situações ao invés de oferecer informações e telas de usuário totalmente traduzidas.
+  + É possível argumentar que grande parte das pessoas possuem familiaridade com certos termos, e que traduzí-los seja um esforço em vão. Por isso, o interessante seria introduzir convenções nestes casos.
+
+* Aspectos organizacionais
+1. Espaços nominais
+  + O uso de espaos nominais para categorizar documentação é um artíficio útil para direcionar públicos distintos às páginas adequadas.
+  + Tal qual como o MediaWiki.org, "Help:" poderia designar guias de usuário e "Manual:", artigos específicos para desenvolvedores, mantenedores, administradores.
+  + É de imensa importância que não se misture textos técnicos para públicos-alvo distintos. A página principal precisa, com sucesso, direcionar cada um para a seção adequada.
