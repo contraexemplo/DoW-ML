@@ -12,11 +12,19 @@ A escolha do protocolo certo é fundamental para aspectos como suporte a longo p
 * OAI-PMH
 ** Principais características
 - Coleta e compartilhamento de metadados
-- Baseada em padrões abertos (HTTP [Hypertext Transport Protocol] e XML [Extensible Markup Language])
-- Metadados coletados podem estar em qualquer formato definido pelas comunidades ou conjuntos de dados e provedores de serviço, mas Dublin Core[fn:1] simples[fn:2] é especificado para prover interoperabilidade mínina[fn:3].
+- Baseada em padrões abertos (HTTP [Hypertext Transport Protocol] (para requisições) e XML [Extensible Markup Language]) (para respostas) -> aplicação rápida.
+- Metadados coletados podem estar em qualquer formato definido pelas comunidades ou conjuntos de dados e provedores de serviço [que possa ser transformado em XML], mas Dublin Core[fn:1] simples[fn:2] é especificado para prover interoperabilidade mínina[fn:3].
+  + Web & firewall friendly.
 - Metadados de diferentes fontes podem ser reunidos em um só banco de dados, e serviços podem se utilizar desses dados agregados.
 - O escopo do protocolo não comporta buscas (não há relação entre conteúdo e metadados)[fn:4] — só torna mais fácil a reunião de dados em um só lugar.
 - Benefícios mais conhecidos: interoperabilidade de baixo custo, possibilidade de encontrar "recursos escondidos".
+
+** Conceitos interessantes
+1. *Provedor de dados vs. Provedor de serviços*
+A arquitetura UPS [Universal Preprint Service], enquanto protótipo, designou estes dois papéis. Aqueles que lidam com o depósito e a publicação de dados referentes a recursos em repositórios, expondo os metadados à coleta, são os *provedores de dados*. Essas entidades são os criadores e os mantenedores dos metadados. Aqueles que coletam tais dados e oferecem serviços com os dados agregados são os *provedores de serviços*.
+
+2. *Recursos*
+Tudo que possui uma identidade. Um documento eletrônico, uma imagem, etc.
 
 * Notas de rodapé
 
