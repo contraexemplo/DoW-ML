@@ -3,3 +3,20 @@ Trata-se de um conjunto de regras que definem a forma como dois ou mais sistemas
 
 * Importância
 A escolha do protocolo certo é fundamental para aspectos como suporte a longo prazo e universalidade. A utilização de protocolos bem definidos a partir de especificações amplamente discutidas e acordadas é imprescindível para proporcionar compatibilidade entre sistemas e tornar processos mais ágeis.
+
+* Alguns exemplos de protocolos presentes em nosso cotidiano
+- HTTPS: protocolo utilizado para proporcionar segurança em comunicações feitas através de uma rede de computadores. Entre as razões para usá-lo estão a preocupação com a privacidade e a integridade dos dados compartilhados.
+
+- Protocolo Signal: protocolo de encriptação ponta-a-ponta utilizado para tornar conversas em aplicativos como Signal e Whatsapp mais seguras.
+
+* OAI-PMH
+** Principais características
+- Coleta e compartilhamento de metadados
+- Baseada em padrões abertos (HTTP [Hypertext Transport Protocol] e XML [Extensible Markup Language])
+- Metadados coletados podem estar em qualquer formato definido pelas comunidades ou conjuntos de dados e provedores de serviço, mas Dublin Core [fn:1] simples [fn:2] é especificado para prover interoperabilidade mínina [fn:3].
+
+[fn:1] Dublin Core Schema: conjunto de termos de vocabulário controlado usado para descrever recursos digitais e físicos.
+
+[fn:2] ""Simple Dublin Core" is Dublin Core metadata that uses no qualifiers; only the main 15 elements of the Dublin Core Metadata Element Set are expressed as simple attribute-value pairs without any "qualifiers" (such as encoding schemes, enumerated lists of values, or other processing clues) to provide more detailed information about a resource." —  [[http://dublincore.org/resources/faq/][Dublin Core Frequently Asked Questions]]
+
+[fn:3] "At a minimum, repositories must be able to return records with metadata expressed in the Dublin Core format, without any qualification." — [[http://www.openarchives.org/OAI/openarchivesprotocol.html#Record][OAI-PMH Specification 2.0]]
