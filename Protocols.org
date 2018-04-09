@@ -1,0 +1,5 @@
+* Conceituação
+Trata-se de um conjunto de regras que definem a forma como dois ou mais sistemas interagem entre si. 
+
+* Importância
+A escolha do protocolo certo é fundamental para aspectos como suporte a longo prazo e universalidade. A utilização de protocolos bem definidos a partir de especificações amplamente discutidas e acordadas é imprescindível para proporcionar compatibilidade entre sistemas e tornar processos mais ágeis.
