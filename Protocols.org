@@ -13,10 +13,18 @@ A escolha do protocolo certo é fundamental para aspectos como suporte a longo p
 ** Principais características
 - Coleta e compartilhamento de metadados
 - Baseada em padrões abertos (HTTP [Hypertext Transport Protocol] e XML [Extensible Markup Language])
-- Metadados coletados podem estar em qualquer formato definido pelas comunidades ou conjuntos de dados e provedores de serviço, mas Dublin Core [fn:1] simples [fn:2] é especificado para prover interoperabilidade mínina [fn:3].
+- Metadados coletados podem estar em qualquer formato definido pelas comunidades ou conjuntos de dados e provedores de serviço, mas Dublin Core[fn:1] simples[fn:2] é especificado para prover interoperabilidade mínina[fn:3].
+- Metadados de diferentes fontes podem ser reunidos em um só banco de dados, e serviços podem se utilizar desses dados agregados.
+- O escopo do protocolo não comporta buscas (não há relação entre conteúdo e metadados)[fn:4] — só torna mais fácil a reunião de dados em um só lugar.
+
+* Notas de rodapé
 
 [fn:1] Dublin Core Schema: conjunto de termos de vocabulário controlado usado para descrever recursos digitais e físicos.
 
 [fn:2] ""Simple Dublin Core" is Dublin Core metadata that uses no qualifiers; only the main 15 elements of the Dublin Core Metadata Element Set are expressed as simple attribute-value pairs without any "qualifiers" (such as encoding schemes, enumerated lists of values, or other processing clues) to provide more detailed information about a resource." —  [[http://dublincore.org/resources/faq/][Dublin Core Frequently Asked Questions]]
 
 [fn:3] "At a minimum, repositories must be able to return records with metadata expressed in the Dublin Core format, without any qualification." — [[http://www.openarchives.org/OAI/openarchivesprotocol.html#Record][OAI-PMH Specification 2.0]]
+- Benefícios mais conhecidos: interoperabilidade de baixo custo, possibilidade de encontrar "recursos escondidos".
+
+[fn:4] O protocolo deve ser usado com outros mecanismos para tal.
+
