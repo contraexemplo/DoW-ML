@@ -15,6 +15,7 @@ A escolha do protocolo certo é fundamental para aspectos como suporte a longo p
 - Baseada em padrões abertos (HTTP [Hypertext Transport Protocol] (para requisições) e XML [Extensible Markup Language]) (para respostas) -> aplicação rápida.
 - Metadados coletados podem estar em qualquer formato definido pelas comunidades ou conjuntos de dados e provedores de serviço [que possa ser transformado em XML], mas Dublin Core[fn:1] simples[fn:2] é especificado para prover interoperabilidade mínina[fn:3].
   + Web & firewall friendly.
+  + The Dublin Core Metadata Element Set: Title, Creator, Subject, Description, Publisher, Contributor, Date, Type, Format, Identifier, Source, Language, Relation, Coverage, Rights.
 - Metadados de diferentes fontes podem ser reunidos em um só banco de dados, e serviços podem se utilizar desses dados agregados.
 - O escopo do protocolo não comporta buscas (não há relação entre conteúdo e metadados)[fn:4] — só torna mais fácil a reunião de dados em um só lugar.
 - Benefícios mais conhecidos: interoperabilidade de baixo custo, possibilidade de encontrar "recursos escondidos".
@@ -25,6 +26,24 @@ A escolha do protocolo certo é fundamental para aspectos como suporte a longo p
 
 2. *Recursos*
   + Tudo que possui uma identidade. Um documento eletrônico, uma imagem, etc.
+
+** Protocolo
+1. *Registro*
+  + Um registro tem três partes: cabeçalho, metadados e "sobre". Os dois primeiros são mandatórios.
+
+*** Elementos do cabeçalho (obrigatório)
+ ­  identifier (mandatory: 1 only)
+ ­  datestamp (mandatory: 1 only)
+ ­  setSpec elements (optional: 0, 1 or more)
+ ­  status attribute for deleted item
+
+*** Elementos dos metadados (obrigatório)
+ ­   XML encoded metadata with root tag, namespace
+ ­   repositories must support Dublin Core, may support other formats 
+
+*** Elementos do "sobre" (opcional)
+ ­    rights statements
+ ­    provenance statements
 
 * Notas de rodapé
 
