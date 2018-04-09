@@ -21,10 +21,10 @@ A escolha do protocolo certo é fundamental para aspectos como suporte a longo p
 
 ** Conceitos interessantes
 1. *Provedor de dados vs. Provedor de serviços*
-A arquitetura UPS [Universal Preprint Service], enquanto protótipo, designou estes dois papéis. Aqueles que lidam com o depósito e a publicação de dados referentes a recursos em repositórios, expondo os metadados à coleta, são os *provedores de dados*. Essas entidades são os criadores e os mantenedores dos metadados. Aqueles que coletam tais dados e oferecem serviços com os dados agregados são os *provedores de serviços*.
+  + A arquitetura UPS [Universal Preprint Service], enquanto protótipo, designou estes dois papéis. Aqueles que lidam com o depósito e a publicação de dados referentes a recursos em repositórios, expondo os metadados à coleta, são os *provedores de dados*. Essas entidades são os criadores e os mantenedores dos metadados. Aqueles que coletam tais dados e oferecem serviços com os dados agregados são os *provedores de serviços*.
 
 2. *Recursos*
-Tudo que possui uma identidade. Um documento eletrônico, uma imagem, etc.
+  + Tudo que possui uma identidade. Um documento eletrônico, uma imagem, etc.
 
 * Notas de rodapé
 
