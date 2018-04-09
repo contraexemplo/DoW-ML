@@ -1,8 +1,8 @@
-# Documentação de trabalho: Tainacan
+# Documentação de trabalho
 
 ## Função
 
-Este repositório é um espelho de todos os registros e documentos relacionados à minha atuação como documentarista [de software], junto ao MediaLab, no projeto [Tainacan](https://github.com/medialab-ufg/tainacan). Como costumo organizar o meu trabalho através do [Org mode](https://orgmode.org/), acessar estes arquivos é a maneira mais fácil de ter acesso à última versão das notas que escrevi em minhas horas de trabalho. 
+Este repositório é um espelho de todos os registros e documentos relacionados à minha atuação como documentarista [de software], junto ao MediaLab, no projeto [Tainacan](https://github.com/medialab-ufg/tainacan). Como costumo organizar o meu trabalho através do [Org mode](https://orgmode.org/), acessar estes arquivos é a maneira mais fácil de ter acesso à última versão das notas que escrevi em minhas horas de trabalho.
 
 ## Escopo
 
