@@ -1,6 +1,8 @@
 * TODO Primeiros passos [%]
 - [ ] Acesso via SSH
 - [ ] Instalação local do DokuWiki e do MediaWiki para testes
+   + [[https://www.mediawiki.org/wiki/Manual:Installation_guide][Guia de instalação do MediaWiki]]
+   + [[https://www.dokuwiki.org/install][Guia de instalação do DokuWiki]]
 
 * TODO Migração de conteúdo [%]
 - [ ] Acesso de administrador ao DokuWiki
@@ -8,6 +10,17 @@
 - [ ] Procura de ferramentas para auxiliar na migração
   + Fóruns de suporte ao MediaWiki citam o plugin [[http://www.staerk.de/thorsten/Mediasyntax][Mediasyntax]] como solução para conversão de sintaxe (com algumas limitações).
 
-* TODO Telas de usuário, detalhes visuais [%]
-- [ ] Procurar orientações a respeito da identidade visual do projeto
-- [ ] Consideração de extensões prontas (talvez [[https://bluespice.com/][BlueSpice]])
+* TODO Telas de usuário, detalhes visuais [50%]
+- [X] Procurar orientações a respeito da identidade visual do projeto
+   + *Feito*: Tenho acesso a pastas contendo detalhes sobre a construção da marca.
+- [ ] Escolha de um tema
+   + *Licença MIT*:
+   + [[https://www.mediawiki.org/wiki/Skin:Booty][Booty]]
+   + *Licença GPL*:
+   + [[https://www.mediawiki.org/wiki/Skin:BlueSky][BlueSky]]
+   + [[https://www.mediawiki.org/wiki/Skin:BootStrapSkin][BootStrapSkin]]
+   + [[https://www.mediawiki.org/wiki/Skin:Minerva_Neue][Minerva Neue]] (mobile)
+   + [[https://www.mediawiki.org/wiki/Skin:MediaWikiBootstrap][MediaWikiBootsrap]]
+   + [[https://www.mediawiki.org/wiki/Skin:Poncho][Poncho]]
+   + [[https://www.mediawiki.org/wiki/Skin:Timeless][Timeless]]
+   + [[https://www.mediawiki.org/wiki/Skin:Tweeki][Tweeki]]
