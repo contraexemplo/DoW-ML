@@ -1,0 +1,13 @@
+* TODO Primeiros passos [%]
+- [ ] Acesso via SSH
+- [ ] Instalação local do DokuWiki e do MediaWiki para testes
+
+* TODO Migração de conteúdo [%]
+- [ ] Acesso de administrador ao DokuWiki
+- [ ] Acesso de administrador ao MediaWIki
+- [ ] Procura de ferramentas para auxiliar na migração
+  + Fóruns de suporte ao MediaWiki citam o plugin [[http://www.staerk.de/thorsten/Mediasyntax][Mediasyntax]] como solução para conversão de sintaxe (com algumas limitações).
+
+* TODO Telas de usuário, detalhes visuais [%]
+- [ ] Procurar orientações a respeito da identidade visual do projeto
+- [ ] Consideração de extensões prontas (talvez [[https://bluespice.com/][BlueSpice]])

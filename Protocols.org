@@ -29,21 +29,21 @@ A escolha do protocolo certo é fundamental para aspectos como suporte a longo p
 
 ** Protocolo
 *** Registro
-  + Um registro tem três partes: cabeçalho, metadados e "sobre". Os dois primeiros são mandatórios.
+Um registro tem três partes: cabeçalho, metadados e "sobre". Os dois primeiros são mandatórios.
 
 **** Elementos do cabeçalho (obrigatório)
- ­  identifier (mandatory: 1 only)
- ­  datestamp (mandatory: 1 only)
- ­  setSpec elements (optional: 0, 1 or more)
- ­  status attribute for deleted item
+- identifier (mandatory: 1 only)
+- datestamp (mandatory: 1 only)
+- setSpec elements (optional: 0, 1 or more)
+- status attribute for deleted item
 
 **** Elementos dos metadados (obrigatório)
- ­   XML encoded metadata with root tag, namespace
- ­   repositories must support Dublin Core, may support other formats 
+- XML encoded metadata with root tag, namespace
+- repositories must support Dublin Core, may support other formats 
 
 **** Elementos do "sobre" (opcional)
- ­    rights statements
- ­    provenance statements
+- rights statements
+- provenance statements
 
 * Notas de rodapé
 
