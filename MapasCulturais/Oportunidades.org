@@ -1,0 +1,41 @@
+Dois caminhos:
+
+* Criação de oportunidades
+
+*Nota:* Toda oportunidade está vinculada a um Espaço. Por isso, é necessário ter um espaço cadastrado no sistema para criar oportunidades.
+
+1. No *modo de edição* do Espaço, clique na aba *Oportunidades*. Em seguida, clique em *Criar oportunidade*.
+
+2. Primeiro, é necessário escolher o método de avaliação da oportunidade. Cinco opções estão disponíveis: *Simplificada*, *Técnica*, *Documental*, *Sefic* e *Documental Sefic*.
+
+3. Ao selecionar o método adequado, a página *Nova Oportunidade* será aberta com a configuração da oportunidade e dos campos do formulário.
+
+** 
+
+* Acesso simples
+
+** Busca
+
+*Nota:* É possível acessar a lista de oportunidades sem cadastro no sistema. Entretanto, para realizar inscrições, é necessário credenciais.
+
+1. A partir da página principal, clique na entidade *Oportunidades* na porção superior direita da página.
+
+2. A página de listagem de *Oportunidades* oferece algumas opções de busca e filtragem.
+
+É possível realizar uma busca por título ou tag da oportunidade desejada através da barra de busca. 
+
+Pode-se também filtrar oportunidades através do menu de seleção de tipos, inscrições abertas e resultados verificados. Por fim, também estão disponíveis opções de visualização (por mapa e por lista), exportação e compartilhamento de resultados de busca.
+
+3. Para se inscrever na oportunidade desejada, clique no nome listado e, ao acessar a sua respectiva página, clique na aba *Principal*.
+   
+** Inscrição
+
+*Nota:* Para realizar a inscrição de um agente, é necessário que *todos os dados obrigatórios* estejam preenchidos corretamente.
+
+4. Designe um agente responsável na barra de inscrição e clique em *Fazer inscrição*.
+
+5. Você será apresentado a um formulário adequado à oportunidade em que está realizando inscrições.
+
+*Nota:* É possível salvar os dados preenchidos para completar a inscrição em um momento posterior. Basta clicar em *Salvar*, na porção superior direita do começo da página.
+
+6. Após responder ao formulário, basta clicar em *Enviar inscrição* para finalizá-la.
