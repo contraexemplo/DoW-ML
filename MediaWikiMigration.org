@@ -1,14 +1,17 @@
-* TODO Primeiros passos [%]
+* TODO Primeiros passos [50%]
 - [ ] Acesso via SSH
-- [ ] Instalação local do DokuWiki e do MediaWiki para testes
-   + [[https://www.mediawiki.org/wiki/Manual:Installation_guide][Guia de instalação do MediaWiki]]
-   + [[https://www.dokuwiki.org/install][Guia de instalação do DokuWiki]]
+- [X] Instalação local do DokuWiki e do MediaWiki para testes
+  + [[https://www.mediawiki.org/wiki/Manual:Installation_guide][Guia de instalação do MediaWiki]]
+  + [[https://www.dokuwiki.org/install][Guia de instalação do DokuWiki]]
+    + *Nota*: Não é mais necessário.
 
-* TODO Migração de conteúdo [%]
-- [ ] Acesso de administrador ao DokuWiki
-- [ ] Acesso de administrador ao MediaWIki
-- [ ] Procura de ferramentas para auxiliar na migração
+* TODO Migração de conteúdo [66%]
+- [X] Acesso de administrador ao DokuWiki
+- [ ] Acesso de administrador ao MediaWiki
+  + *Nota:* Verificar se ainda é necessário.
+- [X] Procura de ferramentas para auxiliar na migração
   + Fóruns de suporte ao MediaWiki citam o plugin [[http://www.staerk.de/thorsten/Mediasyntax][Mediasyntax]] como solução para conversão de sintaxe (com algumas limitações).
+     + *Nota*: Deu certo! Há, porém, limitações na conversão de links externos. Olhar maneira como é feita para talvez submeter um pull request.
 
 * TODO Telas de usuário, detalhes visuais [50%]
 - [X] Procurar orientações a respeito da identidade visual do projeto
