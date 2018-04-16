@@ -69,7 +69,7 @@
 **** Problemas críticos
 - O código-fonte não está disponível, violando a licença GPL 2.0 (se realmente for a escolhida pelo desenvolvedor).
 **** Incertezas
-- O desenvolvedor explicita que pretende tornar este tema pago quando ele atingir um milhão de downloads. Mais uma lembrete de que software /livre/ é diferente de software /gratuito/.
+- O desenvolvedor explicita que pretende tornar este tema pago quando ele atingir um milhão de downloads. Mais um lembrete de que software /livre/ é diferente de software /gratuito/.
 **** Vantagens
 - Esteticamente atraente, divergindo bastante do visual usual do MediaWiki.
 - Boa otimização e usabilidade em navegação móvel.
@@ -77,3 +77,7 @@
 - Documentação bastante detalhada.
 - Bem mantida.
 - Hiper personalização.
+* TODO Imagens utilizadas na documentação [%]
+- [ ] Substituí-las por imagens de maior qualidade
+- [ ] Padronizar o nome das imagens
+- [ ] Enviá-las para a wiki
