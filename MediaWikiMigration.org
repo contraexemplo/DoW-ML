@@ -55,9 +55,8 @@
 - Poucos elementos sujeitos a personalização.
 - Design limpo, um pouco distante do tema padrão do MediaWiki.
 - Bem mantida.
-**** Problemas críticos 
-- Usabilidade e otimização na navegação móvel ([[https://phabricator.wikimedia.org/T173152][Phab:T173152]]).
-
+**** Desvantagens 
+- Problemas de usabilidade e otimização na navegação móvel ([[https://phabricator.wikimedia.org/T173152][Phab:T173152]]).
 *** [[https://www.mediawiki.org/wiki/Skin:Tweeki][Tweeki]]
 **** Vantagens:
 - Também minimalista.
