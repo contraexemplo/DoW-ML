@@ -30,36 +30,36 @@
   + *Licença GPL:*
     + [[https://www.mediawiki.org/wiki/Skin:BlueSky][BlueSky]]
       + *Vantagens:*
-	+ Ainda é mantida pela comunidade.
-	+ Embora não tão limpa quanto outros temas, é funcional.
+          + Ainda é mantida pela comunidade.
+          + Embora não tão limpa quanto outros temas, é funcional.
     + [[https://www.mediawiki.org/wiki/Skin:Minerva_Neue][Minerva Neue]]
       + *Vantagens:*
-        + Tema desenvolvido com foco em navegação móvel.
+          + Tema desenvolvido com foco em navegação móvel.
       + *Desvantagens:*
-        + Navegação em computadores ainda é experimental.
+          + Navegação em computadores ainda é experimental.
     + [[https://mediawikibootstrap.org][MediaWikiBootsrap]]
       + *Vantagens:*
-	+ Esteticamente atraente, divergindo bastante do visual usual do MediaWiki.
-	+ Boa otimização e usabilidade em navegação móvel.
-	+ Traz aprimoramentos interessantes à MediaWiki, como melhor gestão SEO.
-	+ Documentação bastante detalhada.
-	+ Bem mantida.
-        + Hiper personalização.
+	  + Esteticamente atraente, divergindo bastante do visual usual do MediaWiki.
+	  + Boa otimização e usabilidade em navegação móvel.
+	  + Traz aprimoramentos interessantes à MediaWiki, como melhor gestão SEO.
+	  + Documentação bastante detalhada.
+	  + Bem mantida.
+          + Hiper personalização.
       + *Incertezas:*
-        + O desenvolvedor explicita que pretende tornar este tema pago quando ele atingir um milhão de downloads. Mais uma lembrete de que software /livre/ é diferente de software /gratuito/.
+          + O desenvolvedor explicita que pretende tornar este tema pago quando ele atingir um milhão de downloads. Mais uma lembrete de que software /livre/ é diferente de software /gratuito/.
     + [[https://www.mediawiki.org/wiki/Skin:Poncho][Poncho]] e [[https://www.mediawiki.org/wiki/Skin:Athena][Athena]]
       + *Vantagens:*
-        + Minimalista.
-        + Ambas têm suporte da comunidade. 
+          + Minimalista.
+          + Ambas têm suporte da comunidade. 
     + [[https://www.mediawiki.org/wiki/Skin:Timeless][Timeless]]
       + *Vantagens:*
-	+ Aparência semelhante ao mockup idealizado pela equipe de design.
-	+ Poucos elementos sujeitos a personalização.
-	+ Design limpo, um pouco distante do tema padrão do MediaWiki.
-	+ Bem mantida.
+	  + Aparência semelhante ao mockup idealizado pela equipe de design.
+	  + Poucos elementos sujeitos a personalização.
+	  + Design limpo, um pouco distante do tema padrão do MediaWiki.
+	  + Bem mantida.
       + *Problemas críticos:* 
-	+ Usabilidade e otimização na navegação móvel ([[https://phabricator.wikimedia.org/T173152][Phab:T173152]]).
+	  + Usabilidade e otimização na navegação móvel ([[https://phabricator.wikimedia.org/T173152][Phab:T173152]]).
     + [[https://www.mediawiki.org/wiki/Skin:Tweeki][Tweeki]]
       + *Vantagens:*
-        + Também minimalista.
-        + Ainda recebe atualizações e suporte da comunidade.
+          + Também minimalista.
+          + Ainda recebe atualizações e suporte da comunidade.
