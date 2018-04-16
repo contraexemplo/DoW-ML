@@ -20,6 +20,7 @@
   + *Feito*: Tenho acesso a pastas contendo detalhes sobre a construção da marca.
 - [ ] Escolha de um tema
 
+* Relatório preliminar sobre temas para o MediaWiki
 ** Licença MIT
 
 *** [[https://www.mediawiki.org/wiki/Skin:Booty][Booty]]
