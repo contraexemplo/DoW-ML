@@ -1,29 +1,65 @@
-* TODO Primeiros passos [50%]
-- [ ] Acesso via SSH
+* TODO Primeiros passos [100%]
+- [X] Acesso via SSH
+  + Ver seção "Migração de conteúdo".
 - [X] Instalação local do DokuWiki e do MediaWiki para testes
-  + [[https://www.mediawiki.org/wiki/Manual:Installation_guide][Guia de instalação do MediaWiki]]
-  + [[https://www.dokuwiki.org/install][Guia de instalação do DokuWiki]]
+  + [X] [[https://www.mediawiki.org/wiki/Manual:Installation_guide][Guia de instalação do MediaWiki]]
+  + [X] [[https://www.dokuwiki.org/install][Guia de instalação do DokuWiki]]
     + *Nota*: Não é mais necessário.
 
-* TODO Migração de conteúdo [66%]
+* TODO Migração de conteúdo [100%]
 - [X] Acesso de administrador ao DokuWiki
-- [ ] Acesso de administrador ao MediaWiki
-  + *Nota:* Verificar se ainda é necessário.
+- [X] Acesso de administrador ao MediaWiki
+  + *Nota:* As permissões de usuários são um pouco mais complexas no ecossistema MediaWiki. Em termos de manutenção e atualização da instalação do MediaLab, é possível que seja mais seguro testar todas as modificações em minha instalação local e apenas submetê-las ao administrador dos sistemas ao invés de requerer acesso via SSH. No entanto, caso haja um sobrecarregamento da pessoa responsável, é possível que seja necessário cuidar desse assunto eu mesma.
 - [X] Procura de ferramentas para auxiliar na migração
   + Fóruns de suporte ao MediaWiki citam o plugin [[http://www.staerk.de/thorsten/Mediasyntax][Mediasyntax]] como solução para conversão de sintaxe (com algumas limitações).
-     + *Nota*: Deu certo! Há, porém, limitações na conversão de links externos. Olhar maneira como é feita para talvez submeter um pull request.
+    + *Nota*: Deu certo! Há, porém, limitações na conversão de links externos.
+       + Em um momento posterior, talvez seja interessante analizar o código e submeter mudanças para uma conversão à sintaxe do MediaWiki mais acurada.
 
 * TODO Telas de usuário, detalhes visuais [50%]
 - [X] Procurar orientações a respeito da identidade visual do projeto
-   + *Feito*: Tenho acesso a pastas contendo detalhes sobre a construção da marca.
+  + *Feito*: Tenho acesso a pastas contendo detalhes sobre a construção da marca.
 - [ ] Escolha de um tema
-   + *Licença MIT*:
-   + [[https://www.mediawiki.org/wiki/Skin:Booty][Booty]]
-   + *Licença GPL*:
-   + [[https://www.mediawiki.org/wiki/Skin:BlueSky][BlueSky]]
-   + [[https://www.mediawiki.org/wiki/Skin:BootStrapSkin][BootStrapSkin]]
-   + [[https://www.mediawiki.org/wiki/Skin:Minerva_Neue][Minerva Neue]] (mobile)
-   + [[https://www.mediawiki.org/wiki/Skin:MediaWikiBootstrap][MediaWikiBootsrap]]
-   + [[https://www.mediawiki.org/wiki/Skin:Poncho][Poncho]]
-   + [[https://www.mediawiki.org/wiki/Skin:Timeless][Timeless]]
-   + [[https://www.mediawiki.org/wiki/Skin:Tweeki][Tweeki]]
+  + *Licença MIT*:
+    + [[https://www.mediawiki.org/wiki/Skin:Booty][Booty]]
+      + *Requerimentos:*
+	+ Exige o uso da extensão [[https://www.mediawiki.org/wiki/Extension:Skinny][Skinny]].
+      + *Vantagens:*
+	+ Bastante limpa e eficiente.
+      + *Problemas críticos:*
+	+ Não é mais mantida — a última atualização foi feita em 2016.
+  + *Licença GPL:*
+    + [[https://www.mediawiki.org/wiki/Skin:BlueSky][BlueSky]]
+      + *Vantagens:*
+	+ Ainda é mantida pela comunidade.
+	+ Embora não tão limpa quanto outros temas, é funcional.
+    + [[https://www.mediawiki.org/wiki/Skin:Minerva_Neue][Minerva Neue]]
+      + *Vantagens:*
+        + Tema desenvolvido com foco em navegação móvel.
+      + *Desvantagens:*
+        + Navegação em computadores ainda é experimental.
+    + [[https://mediawikibootstrap.org][MediaWikiBootsrap]]
+      + *Vantagens:*
+	+ Esteticamente atraente, divergindo bastante do visual usual do MediaWiki.
+	+ Boa otimização e usabilidade em navegação móvel.
+	+ Traz aprimoramentos interessantes à MediaWiki, como melhor gestão SEO.
+	+ Documentação bastante detalhada.
+	+ Bem mantida.
+        + Hiper personalização.
+      + *Incertezas:*
+        + O desenvolvedor explicita que pretende tornar este tema pago quando ele atingir um milhão de downloads. Mais uma lembrete de que software /livre/ é diferente de software /gratuito/.
+    + [[https://www.mediawiki.org/wiki/Skin:Poncho][Poncho]] e [[https://www.mediawiki.org/wiki/Skin:Athena][Athena]]
+      + *Vantagens:*
+        + Minimalista.
+        + Ambas têm suporte da comunidade. 
+    + [[https://www.mediawiki.org/wiki/Skin:Timeless][Timeless]]
+      + *Vantagens:*
+	+ Aparência semelhante ao mockup idealizado pela equipe de design.
+	+ Poucos elementos sujeitos a personalização.
+	+ Design limpo, um pouco distante do tema padrão do MediaWiki.
+	+ Bem mantida.
+      + *Problemas críticos:* 
+	+ Usabilidade e otimização na navegação móvel ([[https://phabricator.wikimedia.org/T173152][Phab:T173152]]).
+    + [[https://www.mediawiki.org/wiki/Skin:Tweeki][Tweeki]]
+      + *Vantagens:*
+        + Também minimalista.
+        + Ainda recebe atualizações e suporte da comunidade.
