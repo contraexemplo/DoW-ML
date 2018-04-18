@@ -64,7 +64,7 @@
 -Ainda recebe atualizações e suporte da comunidade.
 
 *** [[https://mediawikibootstrap.org][MediaWikiBootsrap]]
-~*Nota:* Mandei um e-mail para o desenvolvedor para confirmar se a licença utilizada é a GPL 2.0, como afirmado no MediaWiki.org.~
++*Nota:* Mandei um e-mail para o desenvolvedor para confirmar se a licença utilizada é a GPL 2.0, como afirmado no MediaWiki.org.+
    + *Follow up:* No fim, os arquivos de tema têm tudo que eu preciso. O tema em si é GPL 2.0.
 **** Incertezas
 - O desenvolvedor explicita que pretende tornar este tema pago quando ele atingir um milhão de downloads. Mais um lembrete de que software /livre/ é diferente de software /gratuito/.
@@ -76,7 +76,9 @@
 - Bem mantida.
 - Hiper personalização.
 
-
+* Experiências com os temas MediaWiki
+** MediaWikiBootstrap
+- Sequer consigo carregá-lo com sucesso.
 * TODO Imagens utilizadas na documentação [%]
 - [ ] Substituí-las por imagens de maior qualidade
 - [ ] Padronizar o nome das imagens

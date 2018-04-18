@@ -1,0 +1,20 @@
+* Sobre privilégios de usuário
+A atribuição de privilégios é concedida a grupos de usuários ao invés de indivíduos. Essa ação é realizada através da edição do arquivo LocalSettings.php com o seguinte argumento:
+
+~$wgGroupPermissions['NomeGrupo']['Privilégio'] = true */ or false /*~
+
+Isso pode parecer nada prático, mas quando se administra wikis com milhares ou milhões de usuários, essa lógica salva tempo e esforço.
+
+- *Nota:* Recomendo que pessoas diretamente envolvidas com o projeto — como a equipe de formação e capacitação, desenvolvedores e suporte — sejam incluídas no grupo ~sysop~ para que possam realizar ações como edições de telas de usuário.
+
+* Editando elementos visuais da wiki
+
+Refirir-se à página [[https://www.mediawiki.org/wiki/Manual:Interface][Manual:Interface]] caso se deseje consultar o material oficial.
+
+** Barra lateral
+- *Dificuldade de migração:* Fácil
+
+A edição da barra lateral, entre outros elementos, só pode ser feita por usuários com o privilégio ~editinterface~. Tal privilégio é concedido por padrão ao grupo ~sysop~.
+
+Deve-se acrescentar ~MediaWiki:Sidebar~ ao endereço para realizar a edição. A sua estruturação é relativamente simples, talvez uma solução até mais elegante do que a da DokuWiki.
+
