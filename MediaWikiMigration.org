@@ -15,10 +15,10 @@
     + *Nota*: Deu certo! Há, porém, limitações na conversão de links externos.
        + Em um momento posterior, talvez seja interessante analizar o código e submeter mudanças para uma conversão à sintaxe do MediaWiki mais acurada.
 
-* TODO Telas de usuário, detalhes visuais [50%]
+* TODO Telas de usuário, detalhes visuais [100%]
 - [X] Procurar orientações a respeito da identidade visual do projeto
   + *Feito*: Tenho acesso a pastas contendo detalhes sobre a construção da marca.
-- [ ] Escolha de um tema
+- [X] Escolha de um tema
   + *Follow up:* Vou testar tanto a Timeless quanto a MediaWikiBootstrap.
 
 * Relatório preliminar sobre temas para o MediaWiki
@@ -61,7 +61,9 @@
 *** [[https://www.mediawiki.org/wiki/Skin:Tweeki][Tweeki]]
 **** Vantagens:
 - Também minimalista.
--Ainda recebe atualizações e suporte da comunidade.
+- Ainda recebe atualizações e suporte da comunidade.
+- Extensa documentação.
+- Alta personalização.
 
 *** [[https://mediawikibootstrap.org][MediaWikiBootsrap]]
 +*Nota:* Mandei um e-mail para o desenvolvedor para confirmar se a licença utilizada é a GPL 2.0, como afirmado no MediaWiki.org.+
@@ -79,6 +81,23 @@
 * Experiências com os temas MediaWiki
 ** MediaWikiBootstrap
 - Sequer consigo carregá-lo com sucesso.
+** Timeless
+- Apesar de bem mantido pela comunidade, a sua aparência ainda é muito próxima do MediaWiki original, que muitos podem considerar ultrapassada ou objetivamente feia (embora bastante funcional).
+- Instalá-lo com sucesso foi uma tarefa fácil.
+- Entretanto, o seu tempo de carregamento em minha instalação local não me agradou (portanto, desempenho pode ser um problema).
+- Documentação a respeito de personalização deste tema não existe com muitos detalhes.
+
+*20/04:* Resolvi testar um tema que havia considerado, mas não elegido: Tweeki.
+
+** Tweeki
+- Instalação fácil e rápida.
+- Tempo de carregamento na instalação local: praticamente instantâneo.
+- A documentação deste tema, hospedada [[https://tweeki.thai-land.at/wiki/Welcome][aqui]], é bastante detalhada. Isso facilitará bastante a manutenção de recursos visuais e a personalização da wiki.
+
+** Veredito
+
+Recomendo a adoção do Tweeki como tema da wiki do Tainacan.
+
 * TODO Imagens utilizadas na documentação [%]
 - [ ] Substituí-las por imagens de maior qualidade
 - [ ] Padronizar o nome das imagens
