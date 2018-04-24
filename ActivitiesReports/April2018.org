@@ -1,0 +1,32 @@
+* Estudo inicial do estado atual da documentação atual do Tainacan
+*Registros*:
+
+*Tarefas executadas:*
+- Análise do conteúdo presente na atual wiki
+- Anotação dos pontos de falha
+- Discussão de melhorias para a documentação a ser elaborada para a refatoração
+- Aprimoramentos em algumas partes da wiki
+
+* Aprimoramento das telas de usuário do Tainacan
+*Registros:* Documento compartilhado com a equipe no Google Drive.
+
+*Tarefas executadas:*
+- Análise das telas de usuário da refatoração do Tainacan
+- Sugestão de melhorias de terminologia
+- Sugestão de melhorias de disposição de opções e menus
+
+* Início da documentação acerca de protocolos do Tainacan
+*Registros:*
+
+*Tarefas executadas:*
+- Pesquisa a cerca do protocolo OAI-PMH
+- Separação de duas documentações: uma para administradores, outra para usuários
+- Esboço da documentação relativa ao OAI-PMH
+
+* Estudos e planejamento da migração da wiki para o MediaWiki
+*Registros:*
+
+*Tarefas executadas:*
+- Instalação de uma instância local do MediaWiki para testes de configurações
+- Escolha de uma identidade visual para a wiki, levando em consideração a licença, manutenção e documentação dos temas
+- Escrita de um guia rápido para administradores e futuros usuários técnicos da wiki

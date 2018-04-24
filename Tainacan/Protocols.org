@@ -9,6 +9,27 @@ A escolha do protocolo certo é fundamental para aspectos como suporte a longo p
 
 - Protocolo Signal: protocolo de encriptação ponta-a-ponta utilizado para tornar conversas em aplicativos como Signal e Whatsapp mais seguras.
 
+* Lista de protocolos
+** Para importar/exportar (upload/download de arquivos)
+- Formato Tainacan
+- Formato CSV
+- Formato SAF
+- Formato DIP Dspace
+- RDF/OWL
+- Formato EDM
+
+** Via API
+- Json
+- OAI-PMH
+
+** Futuros protocolos:
+- ORCID
+- Handle
+- Linked Data com a DBpedia
+- MARC
+- LIDO
+- SWORD
+
 * OAI-PMH
 ** Principais características
 - Coleta e compartilhamento de metadados
@@ -45,7 +66,6 @@ Um registro tem três partes: cabeçalho, metadados e "sobre". Os dois primeiros
 - rights statements
 - provenance statements
 
-* Notas de rodapé
 
 [fn:1] Dublin Core Schema: conjunto de termos de vocabulário controlado usado para descrever recursos digitais e físicos.
 
@@ -54,4 +74,4 @@ Um registro tem três partes: cabeçalho, metadados e "sobre". Os dois primeiros
 [fn:3] "At a minimum, repositories must be able to return records with metadata expressed in the Dublin Core format, without any qualification." — [[http://www.openarchives.org/OAI/openarchivesprotocol.html#Record][OAI-PMH Specification 2.0]]
 
 [fn:4] O protocolo deve ser usado com outros mecanismos para tal.
-
+  
