@@ -1,0 +1,7 @@
+* Elementos visuais
+** Capturas de tela
+*** Apresentação de ferramentas
+- Informar o usuário do contexto ao qual determinada ferramenta pertence é importante para que consiga se orientar de tela a tela. Portanto, antes de de introduzir instruções sobre uma determinada funcionalidade, apresente uma captura de tela da página que a contém.
+- Ao invés de sinalizar cada ferramenta por algum tipo de indicativo visual na captura de tela de contexto geral, capture o ícone ou o menu correspondente de forma independente.
+- A sequência de apresentação de elementos visuais em uma captura de tela, quando necessário listá-los, deve seguir a lógica natural de leitura — isto é, da esquerda para direita, de cima para baixo.
+- As referências a itens da tela devem ser feitas com as suas denominações oficiais.

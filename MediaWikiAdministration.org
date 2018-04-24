@@ -18,3 +18,7 @@ A edição da barra lateral, entre outros elementos, só pode ser feita por usu�
 
 Deve-se acrescentar ~MediaWiki:Sidebar~ ao endereço para realizar a edição. A sua estruturação é relativamente simples, talvez uma solução até mais elegante do que a da DokuWiki.
 
+** Tema
+- *Dificuldade de migração:* Médio
+
+A instalação do tema Timeless é bem simples, e acontece sem problemas.
