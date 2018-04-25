@@ -8,9 +8,3 @@
   + Agora os itens mencionados são descritos com a nomenclatura da interface, ou por uma expressão mais próxima.
 - Modificação na maneira de exibição de uma nota importante
   + Adicionou-se um plugin que provê modelos de notas a serem usados em diferentes situações (alertas, dicas, mensagens importantes) para dar mais destaque à mensagem dada.
-
-* Gestão do repositório
-- Adição de uma menção do menu de um usuário assinante, comparando-o ao menu de um administrador
-  + Adicionou-se também melhores capturas de tela para tornar as diferenças mais explícitas.
-- Criação da seção *Visão geral do Painel de Controle do Repositório*
-  + Isso explicita que se trata de uma apresentação rápida de todos os itens presentes no menu de administrador.
