@@ -1,5 +1,6 @@
 * Estudo inicial do estado atual da documentação atual do Tainacan
 *Registros*:
+- [[https://github.com/contraexemplo/DoW-ML/blob/master/Tainacan/FirstImpressions.org][Primeiras impressões]]
 
 *Tarefas executadas:*
 - Análise do conteúdo presente na atual wiki
@@ -17,6 +18,7 @@
 
 * Início da documentação acerca de protocolos do Tainacan
 *Registros:*
+- [[https://github.com/contraexemplo/DoW-ML/blob/master/Tainacan/Protocols.org][Protocolos]]
 
 *Tarefas executadas:*
 - Pesquisa a cerca do protocolo OAI-PMH
@@ -25,8 +27,19 @@
 
 * Estudos e planejamento da migração da wiki para o MediaWiki
 *Registros:*
+- [[https://github.com/contraexemplo/DoW-ML/blob/master/GeneralRecommendations/MediaWikiMigration.org][Migração para o MediaWiki]] 
+- [[https://github.com/contraexemplo/DoW-ML/blob/master/GeneralRecommendations/MediaWikiAdministration.org][Administração do MediaWiki]]
 
 *Tarefas executadas:*
 - Instalação de uma instância local do MediaWiki para testes de configurações
 - Escolha de uma identidade visual para a wiki, levando em consideração a licença, manutenção e documentação dos temas
 - Escrita de um guia rápido para administradores e futuros usuários técnicos da wiki
+
+* Desenvolvimento de um guia de estilo para o MediaLab
+*Registros:*
+- [[https://github.com/contraexemplo/DoW-ML/blob/master/GeneralRecommendations/StyleGuide.org][Guia de estilo]]
+
+*Tarefas executadas:*
+- Análise dos pontos de falha da wiki no DokuWiki
+- Pesquisa de documentação de referência
+- Elaboração de recomendações de escrita
