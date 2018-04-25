@@ -43,3 +43,10 @@
 - Análise dos pontos de falha da wiki no DokuWiki
 - Pesquisa de documentação de referência
 - Elaboração de recomendações de escrita
+* Aprimoramento da documentação existente do Tainacan
+*Registros:* [[https://github.com/contraexemplo/DoW-ML/blob/master/Tainacan/ModificationsDokuWiki.org][Modificações no DokuWiki]]
+
+*Tarefas executadas:*
+- Feitura de novas capturas de tela, com maior qualidade
+- Adição de plugins no DokuWiki para adicionar funções necessárias
+- Modificações no texto de várias páginas
