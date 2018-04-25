@@ -1,0 +1,10 @@
+* Tela inicial (antiga página "Interface")
+- Renomeação da página
+  + "Interface", além de ser um termo em inglês, é uma denominação inadequada por se tratar da apresentação da tela inicial do Tainacan.
+- Modificação do texto de introdução
+- Reorganização da listagem de elementos da página
+  + Agora a ordem de menção obedece o sentido de leitura da imagem — da esquerda para a direita, de cima para baixo.
+- Renomeação dos itens listados
+  + Agora os itens mencionados são descritos com a nomenclatura da interface, ou por uma expressão mais próxima.
+- Modificação na maneira de exibição de uma nota importante
+  + Adicionou-se um plugin que provê modelos de notas a serem usados em diferentes situações (alertas, dicas, mensagens importantes) para dar mais destaque à mensagem dada.
