@@ -12,3 +12,7 @@
 ** Manhã
 - Continuação da exploração da ferramenta
   + Alguns dos caminhos de modificação da coleção são muito longos, pouco intuitivos e confusos.
+  + *Sugestão:* Quando criar categorias ou subcategorias, poder criar mais de uma por vez.
+  + *Crítica:* Processo de adição à categorias é muito lento.
+  + *Sugestão:* Estudo da turma — saber que conceitos ela domina, e com quais ela tem dificuldades. Compor uma biblioteca de mídias (com vários tipos de formatos) para exemplificar todos os caminhos e possibilidades, conforme necessidades dos atendentes. Moldar a apresentação levando em conta o perfil da turma.
+  + *Sugestão:* Como organizar as coleções? Adicionar uma seção da oficina para isso pode ser benéfico.
