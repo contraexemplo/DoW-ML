@@ -1,0 +1,14 @@
+* Primeiro dia
+** Manhã
+- Introdução dos participantes da oficina
+  + *Perguntas importantes:* Quais são as suas necessidades? Como você chegou à ferramenta? Com que tipo de conteúdo você trabalha?
+- Apresentação da ferramenta: conceitos-chave, panorama dos acervos digitais
+  + Por que não falar sobre licenças e conhecimento aberto?
+** Tarde
+- Exploração da ferramenta
+  + *Questões importantes:* Que tal incentivar o uso de bibliotecas com licenças livres?
+  + *Problemas:* Convém testar (1) as máquinas que serão usadas para a capacitação — muitas apresentaram problemas de software e hardware, (2) a conexão WiFi — houve muitas quedas e problemas de funcionamento, (3) a instalação do Tainacan a ser usada na formação — encontrou-se muitos problemas de nagevação.
+* Segundo dia
+** Manhã
+- Continuação da exploração da ferramenta
+  + Alguns dos caminhos de modificação da coleção são muito longos, pouco intuitivos e confusos.
