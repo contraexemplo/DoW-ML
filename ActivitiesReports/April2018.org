@@ -51,3 +51,12 @@
 - Feitura de novas capturas de tela, com maior qualidade
 - Adição de plugins no DokuWiki para adicionar funções necessárias
 - Modificações no texto de várias páginas
+* Acompanhamento do curso de capacitação do Tainacan
+*Registros:*
+- 
+
+*Tarefas executadas:*
+- Realização das atividades de capacitação como futura capacitada
+- Entendimento da estrutura dos cursos de capacitação
+- Registro de reclamações e sugestões dos capacitados
+- Avaliação da capacitaçaõ como um todo, sugestões de melhoras
