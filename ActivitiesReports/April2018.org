@@ -53,7 +53,7 @@
 - Modificações no texto de várias páginas
 * Acompanhamento do curso de capacitação do Tainacan
 *Registros:*
-- 
+- [[https://github.com/contraexemplo/DoW-ML/blob/master/Tainacan/PresentationNotes.org][Notas sobre a apresentação]]
 
 *Tarefas executadas:*
 - Realização das atividades de capacitação como futura capacitada
