@@ -1,0 +1,29 @@
+* Revisadas e corrigidas (númeração por ID)
+- 52: Consistência entre letras maiúsculas
+- 55: Consistência entre letras maiúsculas
+- 58: Consistência entre letras maiúsculas
+- 71: Consistência entre letras maiúsculas
+- 95: Melhor localização (requerido -> obrigatório)
+- 123: "Valores múltiplos" não transmite o mesmo significado de "múltiplos valores"
+- 138 e 139: "Habilitar" e "desabilitar" são palavras menos corriqueiras do que "ativar" e "desativar" em telas de usuário
+- 153 e 154: "Header" para "cabeçalho"
+- 173: Consistência entre letras maiúsculas
+- 183: Consistência entre letras maiúsculas
+- 184: Consistência entre letras maiúsculas
+- 186: Consistência entre letras maiúsculas
+- 187: Consistência entre letras maiúsculas
+- 188: Consistência entre letras maiúsculas
+- 189: Espaçamento
+- 195: Melhor localização (requerido -> obrigatório)
+- 211: Consistência entre letras maiúsculas
+- 214: Consistência entre letras maiúsculas
+- 220-225: Espaçamento, adição de dois pontos
+- 226-228: Não inseridas como msgtr; adicionadas agora
+- 230-232: Não inseridas como msgtr; adicionadas agora
+- 232: Tradução mais precisa
+- "Are you sure" -> "Opa, tem certeza": distrativo
+- 239: Tradução mais precisa, adição de "arquivos" e "files"
+- 253: Melhor localização
+* Impreciso
+- 214: Descobrir contexto. É coleção relacionada?
+- 64: Idem.

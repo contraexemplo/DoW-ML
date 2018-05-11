@@ -20,5 +20,3 @@ Deve-se acrescentar ~MediaWiki:Sidebar~ ao endereço para realizar a edição. A
 
 ** Tema
 - *Dificuldade de migração:* Médio
-
-A instalação do tema Timeless é bem simples, e acontece sem problemas.
