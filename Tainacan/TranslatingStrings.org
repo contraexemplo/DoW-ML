@@ -1,4 +1,4 @@
-* Revisadas e corrigidas (númeração por ID)
+* Revisadas e corrigidas (numeração por ID)
 - 52: Consistência entre letras maiúsculas
 - 55: Consistência entre letras maiúsculas
 - 58: Consistência entre letras maiúsculas

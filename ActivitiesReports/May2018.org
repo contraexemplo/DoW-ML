@@ -1,0 +1,11 @@
+* Revisão e tradução das telas de usuário do Tainacan
+*Registros:*
+- [[https://github.com/tainacan/tainacan/pull/38][Pull Request #38]]
+- [[https://github.com/contraexemplo/DoW-ML/blob/master/Tainacan/TranslatingStrings.org][Registro de modificações feitas]]
+
+*Tarefas executadas:*
+- Revisão das traduções já realizadas
+- Adequação e padronização das traduções já realizadas
+- Discussão da terminologia utilizada
+- Adição de uma nova leva de termos traduzidos
+- Submissão e união das mudanças ao código-fonte
