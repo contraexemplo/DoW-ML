@@ -15,17 +15,17 @@
 - *Distribuição:* Fox Film Corporation
 - *Pessoa retratada:* Theda Bara como Cleópatra
 - *Elenco original:*
-+  Theda Bara como /Cleopatra/
-+  Fritz Leiber como /Caesar/
-+  Thurston Hall como /Antony/
-+  Albert Roscoe como /Pharon/
-+  Herschel Mayall como /Ventidius/
-+  Dorothy Drake como /Charmian/
-+  Delle Duncan como /Iras/
-+  Henri De Vries como /Octavius Caesar/
-+  Art Acord como /Kephren/
-+  Hector V. Sarno como /Messenger/
-+  Genevieve Blinn como /Octavia/
+  +  Theda Bara como /Cleopatra/
+  +  Fritz Leiber como /Caesar/
+  +  Thurston Hall como /Antony/
+  +  Albert Roscoe como /Pharon/
+  +  Herschel Mayall como /Ventidius/
+  +  Dorothy Drake como /Charmian/
+  +  Delle Duncan como /Iras/
+  +  Henri De Vries como /Octavius Caesar/
+  +  Art Acord como /Kephren/
+  +  Hector V. Sarno como /Messenger/
+  +  Genevieve Blinn como /Octavia/
 - *Informações gerais sobre o vídeo:* Trata-se do único trecho sobrevivente do filme Cleopatra, produzido em 1917. Foi considerado extremamente obsceno sob a perspectiva do [[https://pt.wikipedia.org/wiki/C%C3%B3digo_Hays][Código Hays]], e as suas últimas cópias físicas conhecidas foram destruídas em incêndios nos estúdios da Fox em 1937 e posteriormente no Museu de Arte Moderna de Nova Iorque em 1958. Contém o maior número de trocas de figurinos realizados por um único ator em qualquer filme mudo (50, feitos pela protagonista).
 *** Fotografia Alan Roscoe-Theda Bara in Cleopatra.jpg
 - *Acervo onde foi encontrado:* [[https://pt.wikipedia.org/wiki/Ficheiro:Alan_Roscoe-Theda_Bara_in_Cleopatra.jpg][Wikimedia Commons]]
@@ -61,19 +61,19 @@
   + Lewis Carroll (livro)
   + Cecil M. Hepworth
 - *Elenco:*
-+ May Clark como Alice
-+ Cecil M. Hepworth como Sapo
-+ Mrs. Margaret Hepworth como Coelho Branco e Rainha de Copas
-+ Norman Whitten como Peixe e Chapeleiro Louco
-+ Geoffrey Faithfull como Carta de Baralho
-+ Stanley Faithfull como Carta de Baralho
+  + May Clark como Alice
+  + Cecil M. Hepworth como Sapo
+  + Mrs. Margaret Hepworth como Coelho Branco e Rainha de Copas
+  + Norman Whitten como Peixe e Chapeleiro Louco
+  + Geoffrey Faithfull como Carta de Baralho
+  + Stanley Faithfull como Carta de Baralho
 - *Produção:*
-+ Cecil M. Hepworth
-+ Herman Casler (produtor executivo)
-+ Elias Koopman (produtor executivo)
-+ Harry Marvin (produtor executivo)
+  + Cecil M. Hepworth
+  + Herman Casler (produtor executivo)
+  + Elias Koopman (produtor executivo)
+  + Harry Marvin (produtor executivo)
 - *Distribuído por:*
-+ American Mutoscope and Biograph Company
-+ Edison Manufacturing Company
-+ Kleine Optical Company
+  + American Mutoscope and Biograph Company
+  + Edison Manufacturing Company
+  + Kleine Optical Company
 - *Restaurado por:* British Film Institute 
