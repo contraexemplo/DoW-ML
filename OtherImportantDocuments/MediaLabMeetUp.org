@@ -1,0 +1,9 @@
+* GLAM & Wikimedia Commons
+Há um interesse na utilização da Wikidata e da Wikimedia Commons por GLAMs brasileiros. As seguintes referências foram passadas para mim:
+- [[https://commons.wikimedia.org/wiki/Commons:GLAMwiki_Toolset_Project][Commons:GLAMwiki Toolset Project]]
+- [[https://phabricator.wikimedia.org/T175188][Survey GLAM stakeholders in Commons structured data program]]
+- [[https://commons.wikimedia.org/w/index.php?title=File%3AGLAM_SDC_research_presentation_Jan_2018.pdf&page=2][GLAM SDC research presentation Jan 2018]]
+- [[https://meta.wikimedia.org/wiki/Research:Supporting_Commons_contribution_by_GLAM_institutions][Research:Supporting Commons contribution by GLAM institutions]]
+
+*Encaminhamentos:*
+- Fazer um relatório sobre a situação das GLAMs dentro do movimento Wikimedia. Reunir iniciativas, ferramentas, relatórios relevantes.
