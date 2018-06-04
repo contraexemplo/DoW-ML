@@ -1,0 +1,5 @@
+* The New Tainacan: Alpha release
+- Postagem sobre a versão lançada, rápido resumo sobre as funcionalidades já implementadas. Já publicado.
+
+* Custom View Modes: How will the World see your Collection?
+- Postagem sobre modos de visualização das coleções. Ainda é um rascunho.
