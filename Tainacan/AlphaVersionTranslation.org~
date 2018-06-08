@@ -1,0 +1,65 @@
+Estamos felizes em anunciar o lançamento da primeira versão do novo Tainacan. Agora é possível instalar um repositório de coleções digital diretamente do painel WordPress através de um processo simplificado de um clique apenas!
+
+É uma versão inicial, não adequada para uso em produção, mas com o propósito de ser compartilhada com  a comunidade e, com sorte, atrair mais pessoas interessadas em usá-la, testá-la, prover comentários e (por que não?) nos ajudar com o código.
+
+Nesta postagem, apresentamos uma visão geral de como o Tainacan funciona e suas funcionalidades principais. Como você pode conferir no plano de desenvolvimento, apenas as funções mais básicas foram implementadas até agora (mas, de qualquer forma, muitas coisas já podem ser feitas!).
+
+Assim que lançarmos o tema padrão do Tainacan, iremos publicar outra postagem e divulgar alguns vídeos de demonstração!
+
+Uma vez instalado, você verá um novo item no menu do seu painel Wordpress, chamado (surpreendentemente) Tainacan. Clique nele para gerenciar o seu repositório.
+
+A primeira coisa que você desejará fazer será criar uma nova Coleção. Clique no botão "Nova coleção" e preencha as informações básicas, como nome e descrição.
+
+Você notará que ao clicar no botão para criar uma nova coleção, a opção para usar uma pré-seleção, tal como Dublin Core, está desativada. Estamos trabalhando nisso para a próxima versão. Deixamos essa informação apenas para mostrar que tal opção existirá.
+
+Navegue ao menu do topo para enviar a sua coleção.
+
+A aba de Itens é onde você passará a maior parte do tempo navegando e gerenciando itens.
+
+A página de Itens. Os filtros são exibidos à esquerda uma vez que configurados.
+
+A aba de Configurações é onde você configura a sua coleção. Nós falaremos sobre ela com mais detalhes em futuras postagens e na documentação.
+
+A aba de Metadados é onde você irá determinar que metadados os itens desta coleção terão. Você é livre para escolher quaisquer uma que desejar. No futuro, quando você usar uma pré-seleção, você verá que os metadados dos itens serão populados automaticamente, mas você ainda terá a liberdade de adicionar novos campos, mudar seus nomes, determinar se eles são mandatórios ou não, públicos ou privados, e muitas outras opções. (Nota: mesmo que você não escolha, por exemplo, a pré-seleção Dublin Core, você ainda será capaz de mapear a sua metadada de acordo com este e outros padrões.)
+
+Escolha, a partir da lista de tipos de metadados disponíveis à direita, aqueles que você deseja usar para criar novos metadados para a sua coleção.
+
+Na tela de Filtros você pode escolher, a partir de todos os metadados que você criou, aqueles que serão usados como filtros na sua busca facetada.
+
+Finalmente, na tela de Eventos você poderá visualizar o histórico das ações que você e outros usuários realizaram nesta coleção. Essa funcionalidade é ainda um pouco experimental, mas funciona. ;)
+
+Acesse o histórico de todas as ações realizadas nesta coleção.
+
+On the right hand side, you will see all the metadata you've configured, and on the left side you will be able to add the actual Document, to set a thumbnail and to upload attachments.
+
+The Document is the item itself. It can be a file of any format, an URL (to a youtube video, for example), or a text.
+
+Tainacan will try to find the best way to display the document depending on its type. For example, if it is an audio file, it will embed a player. If it is a PDF document, a PDF reader. Also, it the document is an URL, it will generate embeds for most of the popular platforms, such as youtube, twitter, tumblr and so on, using oEmbed.
+
+Manage taxonomies
+
+Tainacan also gives you the ability to manage and use Taxonomies. They can be used across all your collections as controlled (or uncontrolled) hierarchical vocabularies.
+
+Each term in each taxonomy has its own name and description, as well as its own URL where you will be able to browse items from different collections that share this same classification.
+
+How it will look like for the general audience?
+
+Ok, you have your beautiful collection, you can browse it via a nice faceted search, classify it with your taxonomies, but all this is happening only in your administration environment. What about the public visualization?
+
+Everything marked as published can be accessed by any visitor, despite the theme you are using in your WordPress installation. We will soon release a specially configured Tainacan theme, that will add specific features for a full experience of the possibilities offered by Tainacan. But, in the mean time, you can use it with any theme, and your collections and items will be displayed in a simple way, depending on how your theme looks.
+
+If you are using the default WordPress theme, the list of collections will look like this.
+
+And once you visit your collection, your items will be displayed in the same fashion as blog posts are displayed, because that is all this default theme can offer.
+
+When you visit an item, Taincan will fetch all its metadata and display it.
+
+But its important to notice that all your URLs are sound and fixed. You have an URL for your collection, for your items, and even for terms in your taxonomies. In the picture above, the terms MPB and Samba, from the taxonomy "genre", are hyperlinks to a list of all items tagged accordingly, despite the collection they are in.
+
+If you browse a little more, you might find other themes that display differently. Here are a few examples.
+
+The main idea is that, if you already use or like any WordPress theme, it will be very easy to adapt it and add all the features Tainacan can offer, such as the faceted search for example. Here is an example with another free theme.
+
+That's it for now. There is so much more we want to show, but we will make it in future posts, very soon.
+
+Any feedback or inquires are very welcome.
