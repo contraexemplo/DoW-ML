@@ -1,3 +1,16 @@
+* Palavras a se evitar
+** Obviamente, "todo mundo sabe que", "é fácil"...
+Palavras ou expressões desnecessárias por serem:
+- pouco descritivas.
+- não acolhedoras (e se o que estivermos descrevendo não for tão óbvio ou lugar comum assim ao leitor?).
+- não acrescentam valor algum.
+** Basicamente
+Trata-se de mais uma palavra comumente usada no discurso verbal para se ganhar tempo entre frases. Em um texto escrito, ela perde o seu valor. É melhor encurtar as sentenças, tornando-as mais claras, do que prolongá-las assim.
+** "É claro que...", claramente
+É melhor gastar energia explicando com palavras ou diagramas o que se diz do que afirmando que determinada coisa é clara.
+** "É só...", "Só é preciso..."
+Apesar de tornarem o discurso mais casual em algumas situações, também são expressões objetivamente desnecessárias.
+** 
 * Elementos visuais
 ** Capturas de tela
 *** Apresentação de ferramentas
