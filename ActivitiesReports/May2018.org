@@ -9,3 +9,31 @@
 - Discussão da terminologia utilizada
 - Adição de uma nova leva de termos traduzidos
 - Submissão e união das mudanças ao código-fonte
+
+* Estruturação da documentação sobre protocolos do Tainacan
+*Registros:*
+- [[https://github.com/contraexemplo/DoW-ML/blob/master/Tainacan/ProtocolsSummary.org][Sumário dos protocolos]]
+- [[https://github.com/contraexemplo/DoW-ML/blob/master/Tainacan/Protocols.org][Texto-rascunho e lista dos protocolos]]
+
+*Tarefas executadas:*
+- Pesquisa sobre os protocolos informados
+- Organização das referências bibliográficas
+
+* Encontro de Pesquisa L3P
+- [[https://github.com/contraexemplo/DoW-ML/blob/master/OtherImportantDocuments/MediaLabMeetUp.org][Encaminhamentos]]
+
+*Tarefas executadas:*
+- Ouvinte das breves apresentações sobre as pesquisas desenvolvidas pelo L3P.
+- Chamada para ação: relatório sobre GLAMs & Wikimedia.
+
+* Criação de coleções modelo para formações em Brasília e Biblioteconomia/UFG
+- [[https://github.com/contraexemplo/DoW-ML/blob/master/Tainacan/CreatingCollectionsBSB.org][Brasília]]
+- [[https://github.com/contraexemplo/DoW-ML/blob/master/Tainacan/CreatingCollectionsUFGBiblio.org][Biblioteconomia/UFG]]
+
+*Tarefas executadas:*
+- Levantamento do tipo de coleções e arquivos adequados ao propósito das formações
+- Criação de coleções com fornecimento de metadados completos
+
+* Formação da Biblioteconomia/UFG
+*Tarefas executadas:*
+- Auxílio na capacitação, respondendo a dúvidas e complementando falas na apresentação.
