@@ -1,0 +1,12 @@
+* [[https://docs.djangoproject.com/en/2.0/][Django]]
+*Motivos:*
+- Explicação introdutória sobre como a documentação está estruturada (de acordo com tipos de artigos).
+- Separação e referência de artigos por assunto (primeiros passos, camadas, administração, segurança).
+  + Explicita finalidades e níveis de conteúdo (tutoriais, tutoriais avançados...)
+- À direita, há:
+  + menção de lugares onde é possível procurar suporte (FAQ, formas de se olhar o conteúdo por outras maneiras de organização, lista de e-mail, IRC..)
+  + formas de se fazer o download da documentação para leitura off-line.
+- [[https://docs.djangoproject.com/en/2.0/intro/overview/][Visão geral do que é Django]] – uma ótima maneira de introduzir ao novo usuário as funcionalidades mais importantes do software.
+* [[https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide][Guia de Usuário do Editor Visual]]
+- Decifra, junto ao usuário, todas as minúncias das telas e funcionalidades. 
+- Capturas de tela de alta qualidade.
