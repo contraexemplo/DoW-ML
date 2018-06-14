@@ -1,6 +1,10 @@
-* The New Tainacan: Alpha release
-- *O que é:* Postagem sobre a nova versão lançada, rápido resumo sobre as funcionalidades já implementadas. Texto original já publicado.
-- *Status:* Concluído e publicado. Aguardando revisão de terceiros.
-* Custom View Modes: How will the World see your Collection?
-- *O que é:* Postagem sobre modos de visualização das coleções. Ainda é um rascunho.
+* Alfa do Tainacan novo
+- *Postagem original:* [[http://tainacan.org/new/2018/05/28/new-alpha-release/][The New Tainacan: Alpha release]]
+- *O que é:* Postagem sobre a nova versão lançada, rápido resumo sobre as funcionalidades já implementadas.
+- *Status:* Concluído e publicado.
+- *Postagem traduzida:* [[http://tainacan.org/new/2018/06/08/o-novo-tainacan-versao-alfa/][O novo Tainacan: versão alfa]]
+
+* [ ] Modos de visualização
+- *Postagem original:* [[http://tainacan.org/new/2018/06/13/custom-view-modes-how-will-the-world-see-your-collection/][Custom View Modes: How will the World see your Collection?]]
+- *O que é:* Postagem sobre modos de visualização das coleções.
 - *Status:* Em produção.
