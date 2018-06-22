@@ -1,5 +1,7 @@
 * Resumo
 - No Brasil, houveram parcerias ostensivamente registradas com as seguintes GLAMs:
+  + *2014*
+    + Instituto Cultural Ítalo Brasileiro: digitalização do livro [[https://commons.wikimedia.org/wiki/Category:Il_Brasile_e_gli_Italiani][Il Brasile e gli Italiani]], com o suporte da empresa IAIDigital
   + *Maio de 2016*
     + [[https://commons.wikimedia.org/wiki/Category:Immigration_Museum_of_the_State_of_S%C3%A3o_Paulo][Museu da Imigração do Estado de São Paulo]]
   + *Agosto de 2016*
@@ -13,12 +15,22 @@ A iniciativa voltada para GLAMs na Wikimedia mantém um boletim informativo sobr
 
 ** Relatórios brasileiros
 
+*** 2016
+
 A atividade brasileira neste boletim começou a ser registrada em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/May_2016/Contents/Brazil_report][maio de 2016]], com um relatório sobre o progresso da política de acesso aberto do Museu da Imigração do Estado de São Paulo. Nele, afirma-se que o interesse na parceria nasceu do interesse de uma representante do museu, Juliana Monteiro, que participou do [[https://openpolicynetwork.org/iol/][Institute for Open Leardership 2]], treinamento sobre políticas de acesso aberto que aconteceu na Cidade do Cabo em março de 2016. Isso culminou na primeira colaboração do Museu da Imigração com a Wikimedia Commons, enviando ao acervo [[https://commons.wikimedia.org/wiki/Category:The_Path_of_the_Things_Exhibition_at_Immigration_Museum_of_the_State_of_S%C3%A3o_Paulo][componentes da exposição "O Caminho das Coisas"]]. Mais detalhes sobre essa experiência são descritos em sua postagem no blog da Creative Commons, [[https://creativecommons.org/2016/07/19/creative-commons-e-museu-da-imigracao-notas-sobre-experiencia-brasileira/][Creative Commons e Museu da Imigração: notas sobre uma experiência brasileira]].
 
-No relatório de [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/June_2016/Contents/Brazil_report][junho de 2016]], afirma-se que a Wikimedia Foundation concedeu verba para remunerar uma pessoa por três meses para ajudar no fomento de parcerias entre GLAMs e projetos Wikimedia. Não há, entretanto, outras informações a respeito desta iniciativa em específico.
+No relatório de [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/June_2016/Contents/Brazil_report][junho]], afirma-se que a Wikimedia Foundation concedeu verba para remunerar uma pessoa por três meses para ajudar no fomento de parcerias entre GLAMs e projetos Wikimedia. Não há, entretanto, outras informações a respeito desta iniciativa em específico.
 
-Em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/August_2016/Contents/Brazil_report][agosto de 2016]], anunciou-se uma parceria com o Museu de Anatomia Veterinária da Faculdade de Medicina Veterinária e Zootecnia da Universidade de São Paulo, com o apoio do Centro de Pesquisa, Inovação e Difusão em Neuromatemática (CEPID NeuroMat). Trata-se da primeira parceria com a USP.
+Em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/July_2016/Contents/Brazil_report][julho]], o grupo de usuários brasileiros, junto ao COMCOL Brasil e a Tomara!, empresa de consultoria de projetos culturais, discutiram e desenvolveram uma proposta de projeto de mapeamento da performance de  museus de acordo com suas políticas de compartilhamento e uso de coleções na internet para um edital do estado de São Paulo.
 
-Já em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/September_2016/Contents/Brazil_report][setembro de 2016]], os frutos dessa parceria começam a aparecer: outras GLAMs começam a entrar em contato com o grupo de usuários brasileiros. Sessenta manifestaram interesse, e parcerias com a Matemateca e 
+Em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/August_2016/Contents/Brazil_report][agosto]], anunciou-se uma parceria com o Museu de Anatomia Veterinária da Faculdade de Medicina Veterinária e Zootecnia da Universidade de São Paulo, com o apoio do Centro de Pesquisa, Inovação e Difusão em Neuromatemática (CEPID NeuroMat). Trata-se da primeira parceria com a USP. O mesmo relatório cita uma antiga parceria entre o grupo de usuários brasileiros e o Instituto Cultural Ítalo Brasileiro em 2014, em que o livro /Il Brasile e gli Italiani/ foi completamente digitalizado e hospedado na Wikimedia Commons. A digitalização foi feita com o apoio da empresa IAIDigital, especializada no segmento. 
+
+Já em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/September_2016/Contents/Brazil_report][setembro]], os frutos dessa parceria começam a aparecer: a coleção se tornou notável entre wikipedistas, a ponto de inúmeras imagens serem nomeadas como algumas das mais valiosas na Wikimedia Commons. Uma maratona de edição foram realizadas para relacionar o conteúdo disponibilizado com as novas imagens. Wikipedistas da Wikipédia anglófona identificaram um erro de descrição em uma das peças. Outras GLAMs começam a entrar em contato com o grupo de usuários brasileiros. Sessenta manifestaram interesse, e parcerias com a Matemateca e o Museu da Educação e do Brinquedo foram estabelecidas.
+
+Em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/October_2016/Contents/Brazil_report][outubro]], o grupo brasileiro celebrou o fim da edição nacional da competição /Wiki Loves Monuments/ (Wiki ama monumentos, em tradução livre). Tal iniciativa convoca fotógrafos a imortalizarem monumentos de diversas cidades na Wikimedia Commons, ao mesmo tempo oferecendo premiações em dinheiro para os primeiros três lugares.
+
+Também houve a realização da primeira edição do CCBWIKI (Congresso Científico Brasileiro da Wikipédia), na UNIRIO, entre os dias 13 e 14 de outubro, onde foi apresentado o progresso da iniciativa GLAM Wiki no Brasil.
+
+Neste mês ainda, Juliana Monteiro e Edsonia Lopes se reuníram com três potenciais parceiros: o Instituto de Arte Contemporânea de São Paulo; a coordenação de imprensa e comunicação da Secretaria Municipal de São Paulo, que contribuiu bastante na promoção da competição /Wiki Loves Monuments/ e com quem se discutiu colaborações com museus sob a sua pasta; e com o diretor de Museologia da UNIRIO, com quem se discutiu um projeto sobre hereditariedade intangível.
 
 * Wiki Educação Brasil
