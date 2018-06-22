@@ -10,8 +10,14 @@
     + [[https://commons.wikimedia.org/wiki/Category:Matemateca_IME-USP?uselang=pt-br][Matemateca]], Museu da Matemática da Universidade de São Paulo
     + [[https://commons.wikimedia.org/wiki/Category:Museu_da_Educa%C3%A7%C3%A3o_e_do_Brinquedo][Museu da Educação e do Brinquedo]] da Universidade de São Paulo
 
+* Páginas notáveis
+- [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter][This month in GLAM]]
+- [[https://outreach.wikimedia.org/wiki/Category:This_Month_in_GLAM_Brazil_reports][Relatórios brasileiros]]
+- [[https://outreach.wikimedia.org/wiki/GLAM/Case_studies/University_of_S%C3%A3o_Paulo_Museum_of_Veterinary_Anatomy/pt-br][Estudo de caso da Museu de Anatomia Veterinária da Universidade de São Paulo]]
+- [[https://commons.wikimedia.org/wiki/Commons:Guide_to_batch_uploading][Contribuições em lotes na Wikimedia Commons]]
+
 * This month in GLAM
-A iniciativa voltada para GLAMs na Wikimedia mantém um boletim informativo sobre as atividades do grupo desde 2011 chamado /This month in GLAM/ ("Neste mês, na GLAM" em tradução livre). Os seus volumes são anuais, com cada edição correspondendo a um mês do ano. Nessas edições, reúne-se informações tanto sobre iniciativas financiadas pela Wikimedia Foundation quanto voluntárias, iniciadas e mantidas por grupos locais  de wikimedistas. Os relatórios são apresentados por região (geralmente dividida em países) e por iniciativas "internacionais" (projetos como Wikidata, competições como Wiki Loves Monuments, equipes como  WMF [Wikimedia Foundation] GLAM, eventos em geral, entre outros assuntos considerados mundiais).
+A iniciativa voltada para GLAMs na Wikimedia mantém um boletim informativo sobre as atividades do grupo desde 2011 chamado [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter][This month in GLAM]] ("Neste mês, na GLAM" em tradução livre). Os seus volumes são anuais, com cada edição correspondendo a um mês do ano. Nessas edições, reúne-se informações tanto sobre iniciativas financiadas pela Wikimedia Foundation quanto voluntárias, iniciadas e mantidas por grupos locais  de wikimedistas. Os relatórios são apresentados por região (geralmente dividida em países) e por iniciativas "internacionais" (projetos como Wikidata, competições como Wiki Loves Monuments, equipes como  WMF [Wikimedia Foundation] GLAM, eventos em geral, entre outros assuntos considerados mundiais).
 
 ** Relatórios brasileiros
 
@@ -32,5 +38,7 @@ Em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/October_2016/Contents/B
 Também houve a realização da primeira edição do CCBWIKI (Congresso Científico Brasileiro da Wikipédia), na UNIRIO, entre os dias 13 e 14 de outubro, onde foi apresentado o progresso da iniciativa GLAM Wiki no Brasil.
 
 Neste mês ainda, Juliana Monteiro e Edsonia Lopes se reuníram com três potenciais parceiros: o Instituto de Arte Contemporânea de São Paulo; a coordenação de imprensa e comunicação da Secretaria Municipal de São Paulo, que contribuiu bastante na promoção da competição /Wiki Loves Monuments/ e com quem se discutiu colaborações com museus sob a sua pasta; e com o diretor de Museologia da UNIRIO, com quem se discutiu um projeto sobre hereditariedade intangível.
+
+Em novembro, a iniciativa com o Museu de Veterinária continuou a avançar, e a parceria com a Matemateca avançou — incluindo a compra de equipamentos específicos para este fim, financiados pela Wikimedia Foundation. Um [[https://outreach.wikimedia.org/wiki/GLAM/Case_studies/University_of_S%C3%A3o_Paulo_Museum_of_Veterinary_Anatomy/pt-br][estudo de caso]] sobre a parceria com o Museu de Veterinária foi publicado.
 
 * Wiki Educação Brasil
