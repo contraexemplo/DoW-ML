@@ -9,6 +9,14 @@
   + *Setembro de 2016*
     + [[https://commons.wikimedia.org/wiki/Category:Matemateca_IME-USP?uselang=pt-br][Matemateca]], Museu da Matemática da Universidade de São Paulo
     + [[https://commons.wikimedia.org/wiki/Category:Museu_da_Educa%C3%A7%C3%A3o_e_do_Brinquedo][Museu da Educação e do Brinquedo]] da Universidade de São Paulo
+  + *Outubro de 2017*
+    + [[https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Projetos/Arquivo_Nacional][Arquivo Nacional]]
+  + *Novembro de 2017*
+    + GLAM acessível: [[https://www.wikidata.org/wiki/Category:WikiProject_sum_of_all_paintings_in_Brazil][Museu Paulista, Museu Histórico Nacional, Museu Nacional de Belas Artes, Museu de Arte de São Paulo]]
+    + [[https://commons.wikimedia.org/wiki/Category:NeuroMat%27s_partnership_with_Museu_Paulista_USP][Museu Paulista]]
+  + *Fevereiro de 2018*
+    + [[https://commons.wikimedia.org/wiki/Category:Media_contributed_by_the_Biblioteca_Brasiliana_Guita_e_Jos%C3%A9_Mindlin][Biblioteca Brasiliana Guita e José Mindlin]]
+    + [[https://commons.wikimedia.org/wiki/Category:Media_contributed_by_the_National_Historical_Museum][Museu Histórico Nacional]]
 
 * Páginas notáveis
 - [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter][This month in GLAM]]
@@ -16,6 +24,7 @@
 - [[https://outreach.wikimedia.org/wiki/GLAM/Case_studies/University_of_S%C3%A3o_Paulo_Museum_of_Veterinary_Anatomy/pt-br][Estudo de caso da Museu de Anatomia Veterinária da Universidade de São Paulo]]
 - [[https://commons.wikimedia.org/wiki/Commons:Guide_to_batch_uploading][Contribuições em lotes na Wikimedia Commons]]
 - [[https://github.com/GLAMpipe/GLAMpipe][GLAMpipe]], uma ferramenta para visualizar, editar, baixar e enviar dados de GLAMs.
+- [[Arquivo Nacional adere à Wiki Commons][Arquivo Nacional adere à Wiki Commons]]
 
 * This month in GLAM
 A iniciativa voltada para GLAMs na Wikimedia mantém um boletim informativo sobre as atividades do grupo desde 2011 chamado [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter][This month in GLAM]] ("Neste mês, na GLAM" em tradução livre). Os seus volumes são anuais, com cada edição correspondendo a um mês do ano. Nessas edições, reúne-se informações tanto sobre iniciativas financiadas pela Wikimedia Foundation quanto voluntárias, iniciadas e mantidas por grupos locais  de wikimedistas. Os relatórios são apresentados por região (geralmente dividida em países) e por iniciativas "internacionais" (projetos como Wikidata, competições como Wiki Loves Monuments, equipes como  WMF [Wikimedia Foundation] GLAM, eventos em geral, entre outros assuntos considerados mundiais).
@@ -48,4 +57,39 @@ Sob a tutela de Juliana Monteiro, alunos de Museologia da ETEC Parque Juventude 
 
 Por último, fizeram uma lista de autores e obras que entram em domínio público em 2017 para celebrá-los no Dia do Domínio Público e fazer as suas obras disponíveis da Wikimedia Commons.
 
-* Wiki Educação Brasil
+*** 2017
+
+Os relatórios começam em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/January_2017/Contents/Brazil_report][janeiro]], falando sobre divulgação de livros em domínio público no Dia do Domínio Público, possíveis parcerias com o Museu de Saúde Pública Emílio Ribas e uma maratona de edições a ser realizada em conjunto com o COMCOL e a Superintendência de Museus da Secretaria Municipal da Cultura do Rio de Janeiro.
+
+Em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/February_2017/Contents/Brazil_report][fevereiro]], anunciou-se o diálogo entre o grupo de usuários brasileiros e o Museu do Futebol de São Paulo, que colaborou com artigos no evento Edit-a-thon BBC 100 Women e expressou interesse em aprimorar o conteúdo na Wikipédia. Também se reportou o sucesso da primeira maratona de edições voltada para museus no Rio de Janeiro, que buscou educar profissionais sobre acesso aberto e apresentá-los às iniciativas Wikimedia.
+
+Em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/April_2017/Contents/Brazil_report][abril]], noticia-se a [[https://meta.wikimedia.org/wiki/Wiki_Education_Brazil/Projects/GLAM_Museu_de_Sa%C3%BAde_P%C3%BAblica_Em%C3%ADlio_Ribas#Equipe%7C][primeira sessão de treinamento]] com o Museu de Saúde Pública Emílio Ribas.
+
+Em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/May_2017/Contents/Brazil_report][maio]], fala-se sobre esforços para recrutar novos voluntários e uma maratona de edição realizado do Museu da Imigração do Estado de São Paulo. Tal maratona foi parte da programação da 15ª Semana Nacional de Museus, patrocinada pelo IBRAM.
+
+Em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/August_2017/Contents/Brazil_report][agosto]], reportou-se diversas atividades realizadas por Wilson Krugner Vicentim, wikipedista em residência no Centro de Pesquisa, Inovação e Difusão em Neuromatemática (CEPID NeuroMat). Suas ações se concentraram principalmente na promoção de maratonas de edição para aprimorar artigos da Wikipédia relacionados à matemática.
+
+Também foi anunciada a conclusão do trabalho desenvolvido com alunos de Museologia da ETEC Parque Juventude.
+
+Em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/October_2017/Contents/Brazil_report][outubro]], o grupo lançou um [[https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Projetos/Arquivo_Nacional][projeto interwikis]] com o Arquivo Nacional. O relatório descreve como atividades principais:
+
+- Curadoria de categorias dos arquivos enviados à Commons
+- Identificação de lugares e pessoas retratados em fotografias
+- Transcrição de documentos na Wikisource
+- Aprimoramento de conteúdo na Wikipédia
+- Aprimoramento de conteúdo na Wikidata.
+
+Em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/November_2017/Contents/Brazil_report][novembro]], lançou-se um projeto focada em acessibilidade tendo como objetos principais os quadros do Museu Paulista (marjoritariamente), Museu Histórico Nacional, Museu Nacional de Belas Artes e Museu de Arte de São Paulo. Consiste em audiodescrever quadros notáveis, tornando-os acessíveis a deficientes visuais. Esse processo foi realizado por alunos da Faculdade Cásper Líbero e revisado por profissionais e estudantes da Laramara (Associação Brasileira de Assistência à Pessoa com Deficiência Visual).
+
+Também foi realizado o 2º CCBWIKI e o 1º IWSC (Conferência Científica Internacional da Wikipédia) em Niterói. Uma oficina sobre GLAMs foi realizada pela equipe encarregada dos projetos.
+
+Enfim, começou-se um projeto de [[https://commons.wikimedia.org/wiki/Category:GLAM_3D_reconstructions_by_Cicero_Moraes][reconstrução 3D com o design gráfico Cícero Moraes]]. A ideia é fornecer à Wikimedia Commons reconstruções de figuras notáveis.
+
+*** 2018
+
+As iniciativas começam a ser reportadas em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/February_2018/Contents/Brazil_report][fevereiro]], com o anúncio de uma parceria formal com a [[https://commons.wikimedia.org/wiki/Category:Media_contributed_by_the_Biblioteca_Brasiliana_Guita_e_Jos%C3%A9_Mindlin][Biblioteca Brasiliana Guita e José Mindlin]] e o [[https://commons.wikimedia.org/wiki/Category:Media_contributed_by_the_National_Historical_Museum][Museu Histórico Nacional]].
+
+Em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/April_2018/Contents/Brazil_report][abril]], reportou-se inúmeras oficinas focadas em divulgar a capacidade e utilidade da Wikidata, além de suas possibilidades de integração com outros projetos como Wikipédia.
+
+Por fim, em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/May_2018/Contents/Brazil_report][maio]], foi lançado o [[https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:GLAM/Museu_Paulista][novo portal do Museu Paulista]], finalizados os últimos envios da Matemateca, e comemorado o impacto do acervo do Arquivo Nacional — com 16 milhões de visualizações somente em maio, ele se tornou o mais visto dos mantidos pelo grupo brasileiro.
+
