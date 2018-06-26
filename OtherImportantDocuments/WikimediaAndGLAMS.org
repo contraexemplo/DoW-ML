@@ -25,6 +25,7 @@
 - [[https://commons.wikimedia.org/wiki/Commons:Guide_to_batch_uploading][Contribuições em lotes na Wikimedia Commons]]
 - [[https://github.com/GLAMpipe/GLAMpipe][GLAMpipe]], uma ferramenta para visualizar, editar, baixar e enviar dados de GLAMs.
 - [[Arquivo Nacional adere à Wiki Commons][Arquivo Nacional adere à Wiki Commons]]
+- [[https://upload.wikimedia.org/wikipedia/commons/f/fa/Workshop_GLAM_Wiki_IWSC.pdf][GLAM: organização, incorporação e promoção de acervos nos projetos Wikimedia]]
 
 * This month in GLAM
 A iniciativa voltada para GLAMs na Wikimedia mantém um boletim informativo sobre as atividades do grupo desde 2011 chamado [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter][This month in GLAM]] ("Neste mês, na GLAM" em tradução livre). Os seus volumes são anuais, com cada edição correspondendo a um mês do ano. Nessas edições, reúne-se informações tanto sobre iniciativas financiadas pela Wikimedia Foundation quanto voluntárias, iniciadas e mantidas por grupos locais  de wikimedistas. Os relatórios são apresentados por região (geralmente dividida em países) e por iniciativas "internacionais" (projetos como Wikidata, competições como Wiki Loves Monuments, equipes como  WMF [Wikimedia Foundation] GLAM, eventos em geral, entre outros assuntos considerados mundiais).
