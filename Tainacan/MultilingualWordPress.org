@@ -1,4 +1,3 @@
 | Plug-in 	| Gratuito? 	| Licença 	|
-|               |	        |               |
 | MultilingualPress | Sim — mas com suporte pago | [[https://plugins.trac.wordpress.org/browser/multilingual-press/tags/2.9.2/license.txt][GPL, terceira versão]] |
 | Polylang | Sim — mas com funcionalidades limitadas | [[https://plugins.trac.wordpress.org/browser/polylang/tags/2.3.7/readme.txt][GPL, segunda versão ou superior]] |
