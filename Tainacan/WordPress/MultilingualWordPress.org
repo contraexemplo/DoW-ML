@@ -12,9 +12,13 @@ Os testes definitivos dos plug-ins considerados serão realizados em uma instala
 * Características detalhadas
 ** Polylang
 *** Suporte
-- [[https://polylang.pro/doc/][Documentação]] do plug-in
-- [[https://wordpress.org/support/plugin/polylang][Fórum]] da comunidade
-- Suporte direto, com os desenvolvedores, é restrito a apenas usuários do Polylang Pro
+- [[https://polylang.pro/doc/][Documentação do plug-in]]
+- [[https://wordpress.org/support/plugin/polylang][Fórum da comunidade]]
+- *Nota:* Suporte direto, com os desenvolvedores, é restrito a apenas clientes do Polylang Pro
 *** Requisitos mínimos
-- WordPress 4.4 ou superior | PHP 5.2.4 ou superior
-- Tema precisa ter passado por um processo de internacionalização
+- WordPress 4.4 ou superior 
+- PHP 5.2.4 ou superior
+- Tema precisa ter [[https://developer.wordpress.org/themes/functionality/internationalization/][suporte à internacionalização]]
+- Não pode ser usado juntamente com outros plug-ins de localização (exceto [[https://wordpress.org/plugins/lingotek-translation/][Lingotek Translation]])
+
+
