@@ -20,5 +20,7 @@ Os testes definitivos dos plug-ins considerados serão realizados em uma instala
 - PHP 5.2.4 ou superior
 - Tema precisa ter [[https://developer.wordpress.org/themes/functionality/internationalization/][suporte à internacionalização]]
 - Não pode ser usado juntamente com outros plug-ins de localização (exceto [[https://wordpress.org/plugins/lingotek-translation/][Lingotek Translation]])
+*** Instalação
+*** Uso
 
 

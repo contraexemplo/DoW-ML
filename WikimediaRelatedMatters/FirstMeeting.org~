@@ -1,0 +1,18 @@
+* Perguntas iniciais
+** Como as iniciativas da Glam Lusófona fizeram para publicar dados em massa na Commons? Foi via uma única conta Wikimedia? Que ferramenta foi utilizada?
+
+Não existe um procedimento padrão, na verdade. Os núcleos regionais GLAM Wiki possuem total liberdade para experimentar novas formas de contribuir com a Commons, e geralmente optam por serem testadoras de novas iniciativas de desenvolvimento de software.
+
+Em algumas ocasiões, opta-se por distribuir o trabalho de envio entre vários voluntários. Em outras, cria-se uma conta para a instituição.
+
+** Que tipos de metadados e campos de descrição são possíveis de utilizarmos? Podemos customizar isso?
+
+A Wikidata é bem flexível nesse caso; pode-se dizer que é possível acrescentar todo tipo de metadado que se desejar. O mínimo esperado, porém, é autor, fonte, data e licença.
+
+Existe uma conversa dentro das comunidades de se substituir categorias da Wikipedia por entradas da Wikidata. Entretanto, dentre todos os projetos, podemos dizer que Wikidata é um dos mais experimentais; ou seja, muitas coisas estão sendo definidas neste momento.
+
+** Como se estabelece a relação entre as páginas Wikipedia, os dados na wikidata e os arquivos na Commons? Isso pode ser gerenciado de que maneiras?
+
+A Wikidata tem uma maior integração com a Commons do que qualquer outro projeto; ela fornece uma melhor estruturação e integração dos dados fornecidos. A Commons, como você já notou, não tem telas muito amigáveis para pessoas que procurem apenas explorar o repositório; no momento, o seu foco é ser o meio de servir conteúdo multimídia para o maior projeto Wikimedia, Wikipedia, e projetos adjacentes.
+
+Quando se pensa em colaboração entre GLAMs e projetos Wikimedia, pensa-se principalmente em incorporar os acervos a artigos da Wikipedia. É dessa forma que as peças obterão maior visibilidade, além de enriquecer o conteúdo disponibilizado.

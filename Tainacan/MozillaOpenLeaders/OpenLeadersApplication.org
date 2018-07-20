@@ -1,0 +1,23 @@
+*MozFest proposal:* https://github.com/MozillaFestival/mozfest-program-2018/issues/53
+
+*Why do you want to join the next Open Leaders cohort?*
+
+On my Outreachy internship with Wikimedia, I was responsible for building and testing outreach strategies to bring more technical translators to the Wikimedia movement. That led me to briefly study the movement as a whole, analyzing our work culture on all projects and proposing cultural changes. As I was hired to work at MediaLab/UFG with Tainacan, I realized I needed to pursue better qualification to address better the hardships of working open. I believe Open Leaders can offer me that.
+
+*Do you have a specific goal for learning or professional development in the Open Leaders program? If so, please tell us about it.*
+
+On every organization I work with I try to build some kind of legacy to make the work life of those who come after me a little easier. On organizations that work directly with the federal government in Brazil, working open is especially difficult as political changes heavily affect the work we do and our budget. My main goal is to improve the work culture around Tainacan so the project could resist those changes and keep building a community of its own.
+
+*What challenges have you faced working open? Or, what has kept you from working open?*
+
+Smaller groups and communities tend to rely on specific people to make things work. That leads to codependency , which could cause the death of a project if one important person or more needs to resign from their position for any reason, especially if they don't worry about documenting all the work they've done and training other people to take their places in the future. 
+
+Larger groups and communities sometimes suffer from information fragmentation, which could make difficult to retrieve information about past initiatives; some have too many unwritten rules to follow and no resources to welcome new contributors, making it harder for newcomers to feel welcome and have in mind which kind of contributions are good to go and which are not. That may result in hostility towards new contributors, as some of the more experienced members of the community might find easier to assume more responsabilities than training other people.
+
+*Project or Organization Name* 
+
+Tainacan
+
+*Please tell us about your project or organization*
+
+Tainacan is both a WordPress plug-in and a theme to create and manage digital repositories with the possibility of encouraging your audience to collaborate with it. Designed with participation tools, it makes possible both for GLAMs and groups of all sizes to share their knowledge with the world together while offering functionalities also on other softwares solutions such as dSPACE.
