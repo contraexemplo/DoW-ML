@@ -29,3 +29,6 @@ Quando se pensa em colaboração entre GLAMs e projetos Wikimedia, pensa-se prin
 - What feature, release, or product can others work on on during the program (September - December 2018)?
 - How is this work open? How does it benefit from being open?
 - Key issues: openness, decentralization, digital inclusion
+
+* Encaminhamentos
+- Museu do Índio: projeto piloto. Commons, Wikipedia, Wikidata.
