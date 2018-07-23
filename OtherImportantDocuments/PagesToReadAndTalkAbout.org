@@ -1,7 +1,0 @@
-* Wiki Educação Brasil
-- Financiamento direto da Wikimedia Foundation para o grupo de usuários Wiki Educação Brasil ([[https://meta.wikimedia.org/wiki/Grants:Simple/Applications/Wiki_Education_Brazil_User_Group/2017/H1][Primeiro semestre]] & [[https://meta.wikimedia.org/wiki/Grants:Simple/Applications/Wiki_Education_Brazil_User_Group/2017/H2][Segundo semestre]]).
-- [[https://meta.wikimedia.org/wiki/Wiki_Education_Brazil][Página]] da Wiki Educação Brasil na Meta Wiki.
-- [[http://www.wikibrasil.org/event/1a-iwsc/][1º IWSC, 2º CCBWIKI]]
-
-* This month in GLAM
-- [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/June_2016/Contents/Brazil_report][Relatório de junho de 2016]]

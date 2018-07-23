@@ -1,0 +1,130 @@
+*First name/last name:* Anna e só
+
+*Affiliation:* MediaLab/UFG
+
+*E-mail:* contraexemplo@pm.me
+
+*City:* Goiânia
+
+*Country:* Brazil
+
+*State/Province:* Goias
+
+*GitHub ID:* contraexemplo
+
+*MozFest proposal:* https://github.com/MozillaFestival/mozfest-program-2018/issues/159
+
+* WORKING OPEN
+
+*Why do you want to join the next Open Leaders cohort?*
+
+On my Outreachy internship with Wikimedia, I was responsible for building and testing outreach strategies to bring more technical translators to the Wikimedia movement. That led me to briefly study the movement as a whole, analyzing our work culture on all projects and proposing cultural changes. After I was hired to work at MediaLab/UFG with Tainacan, I realized I needed to pursue better qualification to address better the hardships of working open. I believe Open Leaders can offer me that.
+
+*Do you have a specific goal for learning or professional development in the Open Leaders program? If so, please tell us about it.*
+
+I work with the goal of creating a legacy on every organization I work at, and I worry about the future of Tainacan and other free and open-source projects with government funding and fostering as working open is especially difficult since political changes heavily affect the work we do and our budget. I hope to bring to MediaLab/UFG and other laboratories which work with the federal government a more open and resilient work culture.
+
+*What challenges have you faced working open? Or, what has kept you from working open?*
+
+Even though it hasn't been too long since I started my career in technology—my first contributions to free and open-source projects were made one year ago—, I've stumbled upon many hardships while working on projects that adopt bleeding edge technology/protocols or are too new and personal to have a established governance that welcomes collaborative participation. This is especially true with Mastodon, the software of which I'm currently the main maintainer of the Brazilian Portuguese translation. Many of the conflicts we had could have been solved with a better project management or, at least, a more clear and accessible line of communication between developer(s) and community(ies). While some of the skills to accomplish that are acquired with time (especially with trial and error), others require formal training and support.
+
+* YOUR GOALS
+
+*I am / we are working on:*
+- Open-source software or hardware
+- Curriculum/open educational resources
+- Bringing openness to my organizations
+
+*Project or Organization Name*
+
+Tainacan
+
+*Please tell us about your project or organization*
+
+Tainacan is both a WordPress plug-in and a theme to create and manage digital repositories with the possibility of encouraging your audience to collaborate with it. Designed with participation tools, it makes possible both for GLAMs and groups of all sizes to share their knowledge with the world together while offering functionalities also on other softwares solutions such as dSPACE.
+
+- [X] Check this box if you would like your application to be considered for the culture track.
+
+* PROJECT BACKGROUND
+
+*What feature, release, or product can others work on on during the program (September - December 2018)?*
+
+While leading a pilot project with Museu do Índio (https://en.wikipedia.org/wiki/Museu_do_%C3%8Dndio) to create a WikiProject (https://en.wikipedia.org/wiki/WikiProject) involving sharing part of their collection on Wikimedia Commons (https://commons.wikimedia.org), enrich Wikidata (https://www.wikidata.org) and improve or create related articles on Wikipedia (www.wikipedia.org), I aim to document that process and create an open access policy to serve as reference to all Brazilian GLAMs that wish to open their collections using open repositories. As those Wikimedia projects, especially Wikimedia Commons, don't have a user friendly interface to explore such collections on their own, the idea is to build such foundation so Tainacan can be an integrated solution to visualize such collections.
+
+*How is this work open? How does it benefit from being open?*
+
+There are many GLAMs in Brazil that are home to an incredible amount of knowledge and collections that have never seen the light of the internet. We're talking not only about actual objects and works of art from one of the biggest countries in America—this is also about the amount of metadata that comes with them that could have an infinite number of uses, such as including Brazil in a great amount of history timelines or understanding better our culture. Developing an open access policy could help Brazil to open itself to the world culturally, benefiting researches, students and general public.
+
+* Give us an idea on the current state of your project or work and what you hope to accomplish during the program. There are no wrong answers here.
+
+
+*What is the current stage of your project or work?*
+- [X] Working towards a first prototype
+
+*Where would you like to be after the program? (Dec 2018)*
+- [X] Maintaining work on existing prototype
+
+* Looking at your project, work, or plans:
+*How much have you already done to make your work understandable and accessible by others?*
+- [X] Some
+
+*How much have you already done to make your work easy for others to use, adapt, or share?*
+- [X] A lot
+
+*How much have you already done to welcome, include, and empower participants from diverse backgrounds and communities?*
+- [X] A lot
+
+*How much time have you already spent designing the parts of your work to be open?*
+- [X] A lot
+
+*How much time have you already spent building the resources and systems work needs?*
+- [X] A lot
+
+*How much time have you already spent engaging with community members and empowering them to own parts of the work?*
+- [X] Some
+
+* Select the key issues that relate to your project. 
+- Decentralization
+- Openness
+- Digital Inclusion
+
+* MENTORSHIP
+*Have you been mentored before? If so, how was the experience?*
+
+Yes. I was mentored by Johan Jönsson and Benoît Evellin while working on a project called "Translation outreach: User guides on MediaWiki.org" on my Outreachy internship (https://phabricator.wikimedia.org/T177797). I had a great time with them, as both were extremely communicative and always keen for finding opportunities to improve my skills and bring me a better understanding of the Wikimedia community and projects. It's the kind of experience I'd like to live again.
+
+*What do you look for in a mentor?*
+
+- Open communication: someone I can trust to voice my opinions, concerns and ideas with the guarantee of a sincere and kind feedback.
+- Experience on a related field: a person that could offer me great insights thanks to their knowledge on a subject related to my project.
+- Accommodating: a mentor that understands my limitations as a disabled person and can think of alternatives to accommodate my needs while accomplishing the desired goals.
+
+* TELL US ABOUT YOURSELF
+
+*Technical Skill Level*
+- [X] 3
+
+*Experience Working Open*
+- [X] 5 Has worked openly on multiple projects (OER, Open Source, Other)
+
+*GitHub Knowledge*
+- [X] 3
+
+* ACCESSIBILITY
+*Are you able to attend weekly online video meetings? If you have limited or inconsistent internet connectivity, we'll do our best to provide offline support.*
+- [X] Yes
+
+*Do you speak any languages other than English? If yes, please list them.*
+
+Portuguese.
+
+*We're offering five options for weekly online video meetings. If selected, you'll be assigned to a cohort and a mentor available at the same time as you. These meetings will run from September 11, 2018 - December 12, 2018. Meetings are 30 - 90 minutes.*
+- Every Tuesday at 8 am ET
+- Every Tuesday at 12 pm ET
+- Every Wednesday at 10 am ET
+- Every Thusrday at 2 pm ET
+
+* ANYTHING ELSE?
+*Anything else you’d like us to know?*
+
+I'm visually impaired! And use she/her and they/their pronouns.
