@@ -1,0 +1,4 @@
+|           Período          |                        Tarefa designada                                                                                                                                                |
+| 23 de julho – 27 de julho  | Estruturação do trabalho: definição do escopo, prazos e entregáveis mínimos. Listagem de ferramentas a serem utilizadas para organização do projeto e comunicação entre os envolvidos. |
+| 30 de julho                | Excursão à Brasília                                                                                                                                                                    |
+| 1 de agosto –  8 de agosto | Exploração das ferramentas escolhidas: avaliação de sua facilidade de uso, manutenabilidade, atendimento a todas as nossas necessidades.                                               |
