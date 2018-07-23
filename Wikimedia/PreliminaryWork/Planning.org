@@ -15,9 +15,16 @@
 ** Engajamento e alcance da comunidade
 *** Organização de esforços
 **** Painel de Acompanhamento de Programas e Eventos (/Programs & Events Dashboard/) ([[https://meta.wikimedia.org/wiki/Programs_%26_Events_Dashboard][Meta-Wiki]])
+***** Pontos de interesse
 - Oferece um ambiente controlado para gerenciar o projeto juntamente com a comunidade Wikimedia
 - Possui funcionalidades de monitoramento de progresso e resultados
+***** Exploração
+A ferramenta oferece treinamento para usuários de primeira viagem [[https://outreachdashboard.wmflabs.org/training][nesta página]]. Portanto, além de coletar dados sobre a sua utilização no Brasil em projetos Wikimedia, eventualmente concluindo se ela influencia no engajamento de voluntários, realizarei tal treinamento para explorar todas as suas funcionalidades e tornar-me apta a usá-la.
 
 * Envio de conteúdo multimídia em massa
 ** GLAMPipe ([[http://glampipe.org/][site oficial]])
+*** Pontos de interesse
 - Integração com Wikimedia Commons e Wikidata
+
+*** Exploração
+O grupo de wikimedistas brasileiros ofereceu um treinamento do uso da ferramenta no quinto Wikidata Lab organizado pelo NeuroMat. [[https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Edit-a-thon/Atividades_em_portugu%C3%AAs/Wikidata_Lab_V][Nesta página]] eles mencionam alguns materiais de apoio que poderão me auxiliar em meu treinamento e avaliação solo.
