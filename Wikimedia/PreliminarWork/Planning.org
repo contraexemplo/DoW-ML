@@ -1,4 +1,23 @@
+* Plano de trabalho
+
 |           Período          |                        Tarefa designada                                                                                                                                                |
 | 23 de julho – 27 de julho  | Estruturação do trabalho: definição do escopo, prazos e entregáveis mínimos. Listagem de ferramentas a serem utilizadas para organização do projeto e comunicação entre os envolvidos. |
 | 30 de julho                | Excursão à Brasília                                                                                                                                                                    |
 | 1 de agosto –  8 de agosto | Exploração das ferramentas escolhidas: avaliação de sua facilidade de uso, manutenabilidade, atendimento a todas as nossas necessidades.                                               |
+
+* Prazos essenciais
+| Data final  | Entregável                                                                       |
+| 27 de julho | Plano de trabalho, lista de ferramentas a serem utilizadas e entregáveis mínimos |
+| 8 de agosto | Relatório a respeito da exploração de ferramentas a serem utilizadas             |
+
+
+* Ferramentas
+** Engajamento e alcance da comunidade
+*** Organização de esforços
+**** Painel de Acompanhamento de Programas e Eventos (/Programs & Events Dashboard/) ([[https://meta.wikimedia.org/wiki/Programs_%26_Events_Dashboard][Meta-Wiki]])
+- Oferece um ambiente controlado para gerenciar o projeto juntamente com a comunidade Wikimedia
+- Possui funcionalidades de monitoramento de progresso e resultados
+
+* Envio de conteúdo multimídia em massa
+** GLAMPipe ([[http://glampipe.org/][site oficial]])
+- Integração com Wikimedia Commons e Wikidata
