@@ -1,0 +1,10 @@
+* Processo de tradução
+- O conteúdo das páginas de treinamento é disponibilizado dentro da categoria [[https://meta.wikimedia.org/wiki/Category:Programs_%26_Events_Dashboard][Programs & Events Dashboard]] da Meta-Wiki.
+- Cada tópico entre os módulos foi transformado em uma página.
+- As traduções feitas nessas páginas não são automaticamente transferidas para o website da ferramenta. Para que o website detecte uma tradução nova, é necessário recarregar o conteúdo dos módulos seguindo o modelo do seguinte link: ~https://outreachdashboard.wmflabs.org/reload_trainings?module=using-the-dashboard~. Assim que forem recarregados, os módulos obterão as traduções recentes.
+
+* Traduções já feitas / tópicos já realizados]
+** Fundamentos
+- [[https://outreachdashboard.wmflabs.org/training/learning-and-evaluation/using-the-dashboard/basics-logging-in][Conectando-se]] (100%)
+- [[https://outreachdashboard.wmflabs.org/training/learning-and-evaluation/using-the-dashboard/basics-navigating-dashboard][Navegando pelo painel]] (100%)
+- [[https://outreachdashboard.wmflabs.org/training/learning-and-evaluation/using-the-dashboard/basics-changing-language][Mudando o idioma da interface]] (100%)
