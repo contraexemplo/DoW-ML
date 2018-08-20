@@ -9,3 +9,6 @@
 - [[https://outreachdashboard.wmflabs.org/training/learning-and-evaluation/using-the-dashboard/basics-navigating-dashboard][Navegando pelo painel]] (100%)
 - [[https://outreachdashboard.wmflabs.org/training/learning-and-evaluation/using-the-dashboard/basics-changing-language][Mudando o idioma da interface]] (100%)
 - [[https://outreachdashboard.wmflabs.org/training/learning-and-evaluation/using-the-dashboard/participating][Participando de um Programa]] (100%)
+- [[https://outreachdashboard.wmflabs.org/training/learning-and-evaluation/using-the-dashboard/participating-organizer-link][Participando de um Programa: Se o organizador compartilhou um link com você]] (100%)
+- [[https://outreachdashboard.wmflabs.org/training/learning-and-evaluation/using-the-dashboard/participating-find-program][Participando de um Programa: Se você precisar encontrar o programa no Painel]] (100%)
+
