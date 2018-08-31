@@ -1,2 +1,5 @@
-* Conhecendo o VueJS
+* Getting to know VueJS
 
+** VueJS documentation
+
+It can be found on [[https://vuejs.org/v2/guide/][their guide]]. Important: their documentation states you should now at least intermediate HTML, CSS and JavaScript.
