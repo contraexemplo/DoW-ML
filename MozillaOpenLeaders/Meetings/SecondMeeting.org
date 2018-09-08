@@ -1,0 +1,20 @@
+* Processo de parceria
+** Negociações com instituições parceiras
+- Socialização através de pequenas atividades conjuntas (maratonas de edição, treinamentos).
+- Acordos de cooperação podem ser explicitados através de um [[https://meta.wikimedia.org/wiki/Partnerships_%26_Resource_Development/Drafting_a_Memorandum_of_Understanding][Memorando de Acordos]].
+   + Tal memorando formaliza o acordo entre parceiros, descrevendo claramente a relação entre eles.
+** Dados e mídia são disponibilizados para wikimedistas
+- Se o parceiro não puder prover uma exportação de dados de seus bancos, é possível usar outras ferramentas como raspagem de dados.
+
+** Antes dos envios
+*** Definição o estado dos direitos autorais dos itens
+- Certificar-se de que as licenças são compatíveis com os projetos Wikimedia.
+  + [[https://commons.wikimedia.org/wiki/Commons:Licensing][Página com informações sobre a política de licenças da Wikimedia]]
+  + [[https://commons.wikimedia.org/wiki/File:Licensing_tutorial_en.svg][Infográfico informativo sobre licenças e projetos Wikimedia]]
+- Se a licença não estiver explícita em local público, é necessário [[https://commons.wikimedia.org/wiki/Commons:OTRS#Licensing_images:_when_do_I_contact_OTRS?][enviar um e-mail pelo OTRS]] para criar um registro público e arquivável.
+
+*** Preparação os dados
+- Limpeza e adequação dos dados para deixá-los sob medida aos projetos Wikimedia.
+  + Procure por itens semelhantes para se inspirar em sua modelagem de dados.
+  + [[https://www.wikidata.org/wiki/Wikidata:WikiProjects][Grupos de WikiProjetos da Wikidata]] possuem orientações sobre modelos de dados relacionados a determinados assuntos.
+
