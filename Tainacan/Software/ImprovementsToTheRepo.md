@@ -13,6 +13,10 @@ Both repositories also don't have any attributed topics to make them easier to d
 #### Good references
 - [GitHub's own documentation on topics](https://help.github.com/articles/about-topics/). "Helpful topics to classify a repository include the repository's intended purpose, subject area, community, or language."
 
+#### Improvements to be done
+- List topics of interest related to all of Tainacan's repositories: [tainacan/tainacan-theme](https://github.com/tainacan/tainacan-theme), [tainacan/tainacan](https://github.com/tainacan/tainacan), [tainacan/wiki-theme](https://github.com/tainacan/wiki-theme), [tainacan/tainacan-icons](https://github.com/tainacan/tainacan-icons), [tainacan/tainacan-docker](https://github.com/tainacan/tainacan-docker) and [tainacan/tainacan-extra-views-mode](https://github.com/tainacan/tainacan-extra-viewmodes).
+- As [tainacan/tainacan](https://github.com/tainacan/tainacan) is considered to be the main repository, its README should include links to all other repositories along with a short description about the role which one has in this project. Their README files should also include a link to repositories directly related to them. If [medialab-ufg/tainacan](https://github.com/medialab-ufg/tainacan) continues to host the most stable version of Tainacan, it should be mentioned on [tainacan/tainacan](https://github.com/tainacan/tainacan) and [medialab-ufg/tainacan](https://github.com/medialab-ufg/tainacan) must mention [tainacan/tainacan](https://github.com/tainacan/tainacan) as the development repository.
+
 ***
 
 Uma das maiores vantagens de projetos de software livre é a possibilidade de trabalhar junto a pessoas que não pertencem à equipe central de desenvolvimento. Entretanto, este repositório em seu estado atual (1) é difícil de ser encontrado (2) não contém muitos recursos para pessoas de fora se juntarem à nossa comunidade e fazer contribuições.
@@ -29,3 +33,7 @@ Ambos repositórios também não possuem tópicos atribuídos para fazê-los mai
 
 #### Boas referências
 - [A documentação do GitHub sobre tópicos](https://help.github.com/articles/about-topics/). "Tópicos úteis para classificar um repositório incluem o propósito dele, tema, comunidade ou linguagem."
+
+#### Melhoramentos a serem feitos
+- Listar os tópicos de interesse relacionados a todos os repositórios do Tainacan: [tainacan/tainacan-theme](https://github.com/tainacan/tainacan-theme), [tainacan/tainacan](https://github.com/tainacan/tainacan), [tainacan/wiki-theme](https://github.com/tainacan/wiki-theme), [tainacan/tainacan-icons](https://github.com/tainacan/tainacan-icons), [tainacan/tainacan-docker](https://github.com/tainacan/tainacan-docker) e [tainacan/tainacan-extra-views-mode](https://github.com/tainacan/tainacan-extra-viewmodes).
+- Como o [tainacan/tainacan](https://github.com/tainacan/tainacan) é considerado o repositório principal, o seu README deve incluir menções a todos os outros repositórios junto a uma curta descrição de seus papéis neste projeto. Seus arquivos de README também devem mencionar repositórios diretamente relacionados. Se o [medialab-ufg/tainacan](https://github.com/medialab-ufg/tainacan) continuar a hospedar a versão mais estável do Tainacan, [tainacan/tainacan](https://github.com/tainacan/tainacan) deve conter menções a ele e o [medialab-ufg/tainacan](https://github.com/medialab-ufg/tainacan) deve mencionar [tainacan/tainacan](https://github.com/tainacan/tainacan) como o repositório de desenvolvimento.
