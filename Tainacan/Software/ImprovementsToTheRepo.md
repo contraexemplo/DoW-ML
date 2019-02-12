@@ -19,28 +19,16 @@ Both repositories also don't have any attributed topics to make them easier to d
 
 ## Issue #2: The project should be appropriately presented on the README file
 
-#### Current README content
-> ** This is the development repository of a new version of Tainacan. If you are looking for the current stable version, please visit http://github.com/medialab-ufg/tainacan. **
-
-> Tainacan is a WordPress plugin to build digital repositories. Manage and publish digital collections of any kind.
-
-> In this repository, we are building a new version of tainacan. The package will be composed of a WordPress plugin (this repository) and a WordPress Theme. More details of the architecture will be added here soon.
-
-> We plan to mantain this repository well documented to encourage early testers and contributors, so feel free to try it.
-
-> First, get to know the key concepts of tainacan and what it does. After that you may want to learn how to set up your local enviroment.
-
-> We are still in early stages of development, and any help, feedback or contribution is welcome. Please drop us a line opening an issue or via one of our communication channels:
-
-> twitter: @tainacan_l3p
-
-
 #### Improvements to be done
 - Our README should contain:
   + A brief description of what is Tainacan. **Example:** Tainacan is a WordPress plug-in designed to build, manage and publish digital repositories of any kind. It is especially developed to accommodate the needs of, but not limited to, cultural institutions such as galleries, libraries, archives and museums (also known as GLAMs).
   + A statement about the team that is developing Tainacan. **Example:** Current development efforts are leaded by a team of developers at the Laboratory of Public Policies (L3P), currently based at the Laboratory of Interactive Media (MediaLab) of the Federal University of Goiás (UFG). This team is composed of `$NAME` (`$GITHUBUSERNAME`), `$ATTRIBUTION`; `$NAME` (`$GITHUBUSERNAME`), `$ATTRIBUTION`; `$NAME` (`$GITHUBUSERNAME`), `$ATTRIBUTION`; etc.
+  + Present Tainacan's contribution and participation guidelines (which includes the adoption of a Code of Conduct).
+  + Explictly mention community forums and other means of contact with the Tainacan community.
 
 ## Issue #3: Contribution standards and procedures aren't explicitly stated on the repository
+Expansion of point #3 from issue #2.
+
 Every project that expects contributions from people outside the core development should provide them a guide on which code standards are followed, how this project is organized and how to contact current developers to claim an issue or discuss proposed solutions. The development team started this with a document on [key concepts](https://github.com/tainacan/tainacan/blob/develop/docs/key-concepts.md) and another on [setting up an envinroment locally, along with orienting the reader on how to run tests](https://github.com/tainacan/tainacan/blob/develop/docs/setup-local.md). Those efforts should be resumed.
 
 ***
